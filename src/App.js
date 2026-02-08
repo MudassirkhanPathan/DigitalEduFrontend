@@ -1,3 +1,4 @@
+import { useEffect } from "react";
 import {
   Navigate,
   Route,
@@ -44,6 +45,26 @@ function AppRoutes() {
   const location = useLocation();
   const hideFooter =
     location.pathname === "/login" || location.pathname === "/signup";
+  function App() {
+    useEffect(() => {
+      fetch(`${process.env.REACT_APP_API_URL}/api/health`)
+        .then((res) => res.json())
+        .then((data) => {
+          console.log("Backend connected ✅", data);
+        })
+        .catch((err) => {
+          console.error("Backend connection failed ❌", err);
+        });
+    }, []);
+
+    return (
+      <div className="App">
+        <Router>
+          <AppRoutes />
+        </Router>
+      </div>
+    );
+  }
 
   return (
     <>
