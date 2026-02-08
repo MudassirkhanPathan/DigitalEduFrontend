@@ -1,0 +1,142 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather&display=swap");
+
+/* Layout reset */
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: "Merriweather", serif;
+  font-family: Poppins, sans-serif;
+}
+
+/* Heading */
+.certificate-heading {
+  text-align: center;
+  font-size: 2rem;
+  color: black;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.certificate-heading::after {
+  content: "";
+  display: block;
+  width: 10%;
+  height: 3px;
+  background: black;
+  margin: 5px auto 0 auto; 
+  border-radius: 2px;
+
+}
+.details-btn::after {
+  content: " →";   /* ✅ arrow add kiya */
+  color: black;
+  font-weight: bold;
+  margin-left: 5px;
+}
+
+/* Note */
+.note {
+  margin-top: 30px;
+  color: white; /* direct white */
+  font-size: 1rem;
+  line-height: 1.5;
+  text-align: center;
+}
+
+/* Card */
+.card {
+  position: relative;
+  width: 350px;
+  height: 350px;
+  margin: 20px auto;
+  border-radius: 3px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+  transform: translateZ(0);
+}
+
+/* Thumbnail image */
+.card .thumb {
+  height: 260px;
+  background: url("../C-get/Cer.png") no-repeat center;
+  background-size: cover;
+}
+
+/* Infos block */
+.card .infos {
+  height: 350px;
+  padding: 14px 24px;
+  background: white; /* card background white */
+  transition: 0.4s cubic-bezier(0.17, 0.67, 0.5, 1.03);
+}
+
+.card .title {
+  margin: 10px 0;
+  letter-spacing: 2px;
+  color: black; /* direct black */
+  font-weight: bold;
+  font-size: 1rem;
+  text-transform: uppercase;
+}
+
+.card .date,
+.card .seats {
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  font-size: 0.85rem;
+  color: rgba(21, 37, 54, 0.7); /* dark grey-blue */
+}
+
+.card .seats {
+  display: inline-block;
+  margin-bottom: 24px;
+  padding-bottom: 24px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2); /* grey border */
+  opacity: 0;
+  transition: 0.5s 0.25s cubic-bezier(0.17, 0.67, 0.5, 1.03);
+}
+
+.card .txt {
+  line-height: 1.6;
+  font-size: 0.95rem;
+  color: rgba(21, 37, 54, 0.7); /* grey text */
+  opacity: 0;
+  transition: 0.5s 0.25s cubic-bezier(0.17, 0.67, 0.5, 1.03);
+}
+
+/* Button */
+.details-btn {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  margin: 10px 0;
+  padding: 12px 20px;
+  width: 100%;
+  text-align: center;
+  background: #4e958b; /* blue-green */
+  color: white;
+  font-weight: bold;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  cursor: pointer;
+  opacity: 0;
+  transition: 0.5s 0.25s cubic-bezier(0.17, 0.67, 0.5, 1.03);
+  text-decoration: none;
+  border-radius: 0 0 3px 3px;
+}
+.details-btn:hover {
+  background: linear-gradient(to right, #e0e4f9, #eee3df);
+  color: black;
+}
+
+/* Hover animation */
+.card:hover .infos {
+  transform: translateY(-260px);
+}
+.card:hover .infos .seats,
+.card:hover .infos .txt,
+.card:hover .infos .details-btn {
+  opacity: 1;
+}

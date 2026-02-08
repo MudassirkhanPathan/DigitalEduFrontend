@@ -1,0 +1,451 @@
+[
+  {
+    "id": "01",
+    "name": " Electric Charges and Fields",
+
+    "ncertLink": "https://ncert.nic.in/textbook/pdf/leph101.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-physics/chapter-1-electric-charges-and-fields/",
+      "chapterLink2": "https://www.learncbse.in/ncert-12th-physics-solutions-chapter-1-electric-charges-fields/",
+      "chapterLink3": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-physics-chapter-1-electric-charges-and-fields"
+    },
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtube.com/playlist?list=PL2xF3HCNxGM8HbsVIVB8qNuosugfVnx91&si=5srTvcq385aS0xOo",
+      "youtubeLinks2": "https://youtube.com/playlist?list=PL1Uajun442RixnoOHwIpgWE91MppjIj8K&si=LLq_P8pZz9zyV9aY",
+      "youtubeLinks3": "https://youtube.com/playlist?list=PLbOkUmjwMtHtLkNOjcfJGIKUyCK7OtwaL&si=ehYvqCnWzZ7HlEiK"
+    },
+
+    "Hname": "वैद्युत आवेश तथा क्षेत्र ",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhph101.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-physics-chapter-1-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://www.youtube.com/live/pMWhG_P9EaQ?si=6IC5wL0hha80zSTC",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "02",
+    "name": " Electrostatic Potential and Capacitance",
+
+    "ncertLink": "https://ncert.nic.in/textbook/pdf/leph102.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-physics/chapter-2-electrostatic-potential-and-capacitance/",
+      "chapterLink2": "https://www.learncbse.in/ncert-class-12th-physics-solutions-chapter-2-electrostatic-potential-capacitance/",
+      "chapterLink3": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-physics-chapter-2-electrostatic-potential-and-capacitance"
+    },
+
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtube.com/playlist?list=PLbOkUmjwMtHtnDi3t0kiBurASiIZSMWw9&si=UItKl520x-eAHpGq",
+      "youtubeLinks2": "https://youtube.com/playlist?list=PL1Uajun442Rgy7wVvgfKKxhak2o24Ak3L&si=bAVQweckTtTPRsdk",
+      "youtubeLinks3": "https://youtube.com/playlist?list=PLph_hfoJpioIVU2NqnX_C32yuCCyKALuv&si=YTghzAMfhyuyvC-Y"
+    },
+
+    "Hname": " स्थिरवैद्युत विभव तथा धारिता ",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhph102.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-physics-chapter-2-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://www.youtube.com/live/-JofLRGU5YI?si=LpejVLhiZAWfKDXp",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "03",
+    "name": " Current Electricity",
+
+    "ncertLink": "https://ncert.nic.in/textbook/pdf/leph103.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-physics/chapter-3-current-electricity/",
+      "chapterLink2": "https://www.learncbse.in/ncert-class-12th-physics-solutions-chapter-3-current-electricity/",
+      "chapterLink3": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-physics-chapter-3-current-electricity"
+    },
+
+    "youtubeLinks": {
+      "youtubeLinks1": "https://www.youtube.com/live/qdpaamZM7GA?si=gWYfF97dJr56JJW7",
+      "youtubeLinks2": "https://youtu.be/lQpOGg0eiyw?si=Ap5Rdq1AoLPy-QIO",
+      "youtubeLinks3": "https://youtu.be/M0rKEwL-FzA?si=-YjJkalHuKm-Wedm"
+    },
+     
+    "Hname": "विद्युत धारा ",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhph103.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-physics-chapter-3-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://www.youtube.com/live/E8uosiGLLxM?si=ynOTZExD9xrJRgj3",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "04",
+    "name": " Moving Charges and Magnetism",
+
+    "ncertLink": "https://ncert.nic.in/textbook/pdf/leph104.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-physics/chapter-4-moving-charges-and-magnetism/",
+      "chapterLink2": "https://www.learncbse.in/ncert-class-12th-physics-solutions-chapter-4-moving-charges-magnetism/",
+      "chapterLink3": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-physics-chapter-4-moving-charges-and-magnetism"
+    },
+
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtube.com/playlist?list=PL1Uajun442RjWUJAwEEu-Y4hshIA5etY7&si=7sMAcAJgAFdxNM1c",
+      "youtubeLinks2": "https://youtube.com/playlist?list=PLF_7kfnwLFCF8sjVSdxn3yWAghIgVnw26&si=MCZhoytqQJ1QpsQK",
+      "youtubeLinks3": "https://youtu.be/m1qlWJv2-jk?si=67stotaAXXN9jhzc"
+    },
+
+    "Hname": " गतिमान आवेश और चुम्बकत्व ",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhph104.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-physics-chapter-4-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://youtube.com/playlist?list=PLEBXosC9MKQJFuVVfo-RrGBwUpjw8zceH&si=joike_JcsmvTrVgt",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "05",
+    "name": " Magnetism and Matter",
+
+    "ncertLink": "https://ncert.nic.in/textbook/pdf/leph105.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-physics/chapter-5-magnetism-and-matter/",
+      "chapterLink2": "https://www.learncbse.in/ncert-12th-physics-solutions-chapter-5-magnetism-and-matter/",
+      "chapterLink3": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-physics-chapter-5-magnetism-and-matter"
+    },
+
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtube.com/playlist?list=PLlm0ljS_A4fngsWOfjLS6vlj5JuCKUjMO&si=7VtSHKM42tO_-5bX",
+      "youtubeLinks2": "https://youtube.com/playlist?list=PLph_hfoJpioLELKjRNnaTPPhq4JPeB1qg&si=FYnZbhL_mEBTVcxg",
+      "youtubeLinks3": "https://www.youtube.com/live/OBU4WqGXtJs?si=njKu2e7WEYWwpd-u"
+    },
+
+    "Hname": " चुम्बकत्व एवं द्रव्य ",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhph105.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-physics-chapter-5-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://youtu.be/8QvnQcxPeUI?si=eHBDfYugyN4Owfa2",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "06",
+    "name": " Electromagnetic Induction",
+
+    "ncertLink": "https://ncert.nic.in/textbook/pdf/leph106.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-physics/chapter-6-electromagnetic-induction/",
+      "chapterLink2": "https://www.learncbse.in/ncert-class-12th-physics-solutions-chapter-6-electromagnetic-induction/",
+      "chapterLink3": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-physics-chapter-6-electromagnetic-induction"
+    },
+
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtu.be/vHS0XZWCpeY?si=IOakLftoDObzmUM2",
+      "youtubeLinks2": "https://youtu.be/t2CmB-mQ9cs?si=PGe8r0r66nx87HW-",
+      "youtubeLinks3": "https://youtube.com/playlist?list=PLph_hfoJpioIf_PyfznfbTPe7RcWpvdXy&si=dkEXXdHU1shAAA6l"
+    },
+
+    "Hname": "वैद्युत चुम्बकीय प्रेरण ",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhph106.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-physics-chapter-6-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://youtu.be/z7A3bFxDYGg?si=yY9gu0lBrPuKrU6r",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "07",
+    "name": " Alternating Current",
+
+    "ncertLink": "https://ncert.nic.in/textbook/pdf/leph107.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-physics/chapter-7-alternating-current/",
+      "chapterLink2": "https://www.learncbse.in/ncert-class-12th-physics-solutions-chapter-7-alternating-current/",
+      "chapterLink3": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-physics-chapter-7-alternating-current"
+    },
+
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtu.be/xvHVAl85wLo?si=z-TD6A5sd4MGuLqZ",
+      "youtubeLinks2": "https://youtu.be/ZQ5JnBM61Gc?si=LzL5AKXqmMKdZw7P",
+      "youtubeLinks3": "https://youtube.com/playlist?list=PLph_hfoJpioInFhKoAIUh1wXdXw8p28l0&si=YQLp3A9Nl0tw8xmT"
+    },
+
+    "Hname": "प्रत्यावर्ती धारा ",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhph107.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-physics-chapter-7-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://www.youtube.com/live/imvQcl42l0c?si=R0I6z6l0gM3q7f02",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "08",
+    "name": " Electromagnetic Waves",
+
+    "ncertLink": "https://ncert.nic.in/textbook/pdf/leph108.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-physics/chapter-8-electromagnetic-waves/",
+      "chapterLink2": "https://www.learncbse.in/ncert-12th-physics-solutions-chapter-8-electromagnetic-waves/",
+      "chapterLink3": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-physics-chapter-8-electromagnetic-waves"
+    },
+
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtu.be/u80AHM_bZMo?si=2xSetPXAajAfNMec",
+      "youtubeLinks2": "https://youtu.be/89Y-Y1xmz9U?si=2hZdnKqhjb-TT3wE",
+      "youtubeLinks3": "https://youtu.be/_nnjwKwkxrw?si=5Zleh17DPoH04c84"
+    },
+
+    "Hname": " वैद्युत चुम्बकीय तरंगें ",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhph108.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-physics-chapter-8-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://youtu.be/cjqJki2p0ys?si=SjxaooCMFhmFKnCq",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "09",
+    "name": " Ray Optics and Optical Instruments",
+
+    "ncertLink": "https://ncert.nic.in/textbook/pdf/leph201.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-physics/chapter-9-ray-optics-and-optical-instruments/",
+      "chapterLink2": "https://www.learncbse.in/ncert-solutions-for-class-12-physics-chapter-9-ray-optics-and-optical-instruments/",
+      "chapterLink3": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-physics-chapter-9-ray-optics-and-optical-instruments"
+    },
+
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtu.be/QXWtG3M-QPc?si=HKqzcW0f5Ei0vRKL",
+      "youtubeLinks2": "https://youtube.com/playlist?list=PLph_hfoJpioI35Ua0knc6oMSQ33DqYuTh&si=Dx5nPcDWq-SOpOxn",
+      "youtubeLinks3": "https://youtu.be/YnqN_tJ914s?si=ABS_OGsfWc_TvPIv"
+    },
+
+    "Hname": " किरण प्रकाशिकी एवं प्रकाशिक यंत्र ",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhph201.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-physics-chapter-9-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://youtube.com/playlist?list=PLyJB4mYe9OU7ZacyODZG1p30jQFK0NjNw&si=0CiAfkWbSPer88VQ",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "10",
+    "name": " Wave Optics",
+
+    "ncertLink": "https://ncert.nic.in/textbook/pdf/leph202.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-physics/chapter-10-wave-optics/",
+      "chapterLink2": "https://www.learncbse.in/ncert-12th-physics-solutions-chapter-10-wave-optics/",
+      "chapterLink3": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-physics-chapter-10-wave-optics"
+    },
+
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtu.be/wj2IvRfG7yc?si=85l-V3XlX9j7uvMo",
+      "youtubeLinks2": "https://youtu.be/OztNj9iSEvY?si=cgmUozZpy7fqq6dF",
+      "youtubeLinks3": "https://youtu.be/J4av2w2Afm4?si=oily-4-Ni4p5YLv-"
+    },
+
+    "Hname": "तरंग-प्रकाशिकी ",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhph202.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-physics-chapter-10-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://www.youtube.com/live/B1Odn6TM7XI?si=laMuBWHKIVEjo0Zm",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "11",
+    "name": " Dual Nature of Radiation and Matter",
+
+    "ncertLink": "https://ncert.nic.in/textbook/pdf/leph203.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-physics/chapter-11-dual-nature-of-radiation-and-matter/",
+      "chapterLink2": "https://www.learncbse.in/ncert-12th-physics-solutions-chapter-11-dual-nature-of-radiation-and-matter/",
+      "chapterLink3": "https://www.vedantu.com/textbook-solutions/ncert-exemplar-solutions-class-12-physics-chapter-11"
+    },
+
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtu.be/aOQO5eGWbjs?si=E7U4qNBln7hGQO5X",
+      "youtubeLinks2": "https://youtube.com/playlist?list=PLph_hfoJpioK62JMHMHH4lsO37XaJeDCH&si=owEBz9ZnuoFYqgZt",
+      "youtubeLinks3": "https://youtu.be/xbd75rGqiWU?si=jrCwVAEarg46Z9_Q"
+    },
+
+    "Hname": "विकिरण तथा द्रव्य की द्वैत प्रकृति ",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhph203.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-physics-chapter-11-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://youtu.be/Zle1tECgZCQ?si=i63xQ8FXZpf8tkhI",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "12",
+    "name": "Atoms",
+
+    "ncertLink": "https://ncert.nic.in/textbook/pdf/leph204.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-physics/chapter-12-atoms/",
+      "chapterLink2": "https://www.learncbse.in/ncert-12th-physics-solutions-chapter-12-atoms/",
+      "chapterLink3": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-physics-chapter-12-atoms"
+    },
+
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtu.be/3ahItMZDKO0?si=7IDyU1q0BI-ZMiRc",
+      "youtubeLinks2": "https://youtu.be/S7Ly3xDsQho?si=sVDIHsbLVeTt5AGH",
+      "youtubeLinks3": "https://youtu.be/A0mbeGXf-ng?si=sW8ukbc5j_PvLBw7"
+    },
+
+    "Hname": "परमाणु",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhph204.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-physics-chapter-12-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://youtube.com/playlist?list=PL7KjrgOUKyaPwUgSYZPYT1lW0kavsfyDK&si=kwgTXVTXYvgo7RDY",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "13",
+    "name": "Nuclei",
+
+    "ncertLink": "https://ncert.nic.in/textbook/pdf/leph205.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-physics/chapter-13-nuclei/",
+      "chapterLink2": "https://www.learncbse.in/ncert-class-12th-physics-solutions-chapter-13-nuclei/",
+      "chapterLink3": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-physics-chapter-13-nuclei"
+    },
+
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtu.be/UjQZ_Vs54P4?si=MekadVeiLq3XPFSD",
+      "youtubeLinks2": "https://youtu.be/37GBuEVQZGg?si=hwGEQGYSljIigWno",
+      "youtubeLinks3": "https://youtu.be/ef6DR5eA4x4?si=G-4Gj6qzvaU5nM4L"
+    },
+
+    "Hname": "नाभिक ",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhph205.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-physics-chapter-13-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://youtu.be/Nlqc7wVgjgE?si=ZpUdXroatW_2qara",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "14",
+    "name": " Semiconductor Electronics: Materials, Devices and Simple Circuits",
+
+    "ncertLink": "https://ncert.nic.in/textbook/pdf/leph206.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-physics/chapter-14-semiconductor-electronics-materials/",
+      "chapterLink2": "https://www.learncbse.in/ncert-12th-physics-solutions-chapter-14-semiconductors/",
+      "chapterLink3": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-physics-chapter-14-semiconductor-electronic-material-devices-and-simple-circuits"
+    },
+
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtu.be/F5IpIHzBvLQ?si=iMTdje3wcos5yNsP",
+      "youtubeLinks2": "https://youtu.be/KmefLsQCr18?si=vXLpImgiukRdxgvD",
+      "youtubeLinks3": "https://youtu.be/XTRQu4zwYU8?si=HwLZYPKnN16h5q75"
+    },
+
+    "Hname": "अर्द्धचालक इलेक्ट्रॉनिकी : पदार्थ, युक्तियाँ तथा सरल परिपथ ",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhph206.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-physics-chapter-14-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://youtu.be/X6VIuxegwWs?si=Ao4EOPMaNttiv4fT",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "15",
+    "name": "Communication Systems",
+
+    "ncertLink": "https://ncert.nic.in/ncerts/l/leph207.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-physics/chapter-15-communication-system/",
+      "chapterLink2": "https://www.learncbse.in/ncert-12th-physics-solutions-chapter-15-communication-systems/",
+      "chapterLink3": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-physics-chapter-15-communication-systems"
+    },
+
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtu.be/gDBYAZISUFQ?si=hv4Rc81VcfnfMGTa",
+      "youtubeLinks2": "https://youtube.com/playlist?list=PLXRHLcE5FyUTzPt-6y168PXEedsj9Pfti&si=Vziu-MSzNgwxfikQ",
+      "youtubeLinks3": "https://youtu.be/NpXm5ucXgPA?si=ZC1PHtzjZb7W7cMf"
+    },
+
+    "Hname": "संचार व्यवस्था ",
+    "HncertLink": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/physics(hindi)/lhep115.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://youtube.com/playlist?list=PL_9Ntv94RiW2AXDaR7LOc7rlMs9eHt6li&si=fgH4yJUQc9LLhViF",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  }
+]

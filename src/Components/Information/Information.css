@@ -1,0 +1,128 @@
+.faq-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px 16px;
+  background: #f9fafb; /* little lighter for modern look */
+  font-family: Poppins, sans-serif;
+}
+
+.faq-title {
+  font-size: 30px;
+  font-weight: 700;
+  text-align: center;
+  position: relative;
+  margin-bottom: 10px;
+  color: #111827; /* dark gray */
+}
+
+.faq-title::after {
+  content: "";
+  position: absolute;
+  display: block;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: -8px;
+  width: 200px;
+  height: 3px;
+  background: linear-gradient(to right, #000428, #004e92);
+  border-radius: 2px;
+}
+
+.faq-subtitle {
+  color: #6b7280; /* gray-500 */
+  font-size: 16px;
+  margin-bottom: 24px;
+  text-align: center;
+}
+
+.faq-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  border-bottom: 1px solid #ddd;
+  width: 100%;
+  max-width: 800px; /* thoda bada kiya */
+  margin-bottom: 24px;
+}
+
+.faq-tab {
+  flex: 1; /* equal width sabke liye */
+  min-width: 120px; /* minimum width */
+  padding: 12px 18px;
+  font-size: 16px;
+  font-weight: 500;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #374151; /* gray-700 */
+  text-align: center;
+  transition: all 0.3s ease;
+  
+}
+
+.faq-tab:hover {
+  color: #111827;
+  background: #f3f4f6; /* light hover bg */
+}
+
+.faq-tab.active {
+   background: linear-gradient(to right, #e0e4f9, #eee3df);
+  background: linear-gradient(to right, #e0e4f9, #eee3df);
+  font-weight: 600;
+}
+
+.faq-content {
+  background: linear-gradient(to right, #e0e4f9, #eee3df);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  border-radius: 10px;
+  padding: 28px;
+  width: 100%;
+  max-width: 800px;
+
+}
+
+.faq-item {
+  margin-bottom: 22px;
+}
+
+.faq-question {
+  font-weight: 600;
+  font-size: 18px;
+  color: #111827;
+  margin-bottom: 6px;
+}
+
+.faq-answer {
+  color: #4b5563; /* gray-600 */
+  line-height: 1.6;
+  font-size: 15px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .faq-title {
+    font-size: 24px;
+  }
+
+  .faq-tab {
+    font-size: 14px;
+    padding: 10px 12px;
+    min-width: auto;
+  }
+
+  .faq-content {
+    padding: 18px;
+  }
+}
+.faq-item {
+  margin-bottom: 22px;
+  padding-bottom: 16px; /* thoda spacing border ke upar */
+  border-bottom: 1px solid #b5b6ba; /* light gray line */
+}
+
+.faq-item:last-child {
+  border-bottom: none; /* last wale me line nahi hogi */
+  margin-bottom: 0;
+  padding-bottom: 0;
+}

@@ -1,0 +1,167 @@
+/* Container */
+/* Container */
+.hq-hero-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 60px 20px;
+  border-radius: 20px;
+  height: 400px;
+  margin: 50px auto;
+  gap: 15px; /* pehle 30px tha, ab kam kar diya */
+  flex-wrap: wrap;
+  position: relative;
+  font-family: Poppins, sans-serif;
+}
+
+
+/* Center Heading */
+.hq-main-heading {
+  width: 100%;
+  text-align: center;
+  font-size: 42px;
+  font-weight: 700;
+  color: #333;
+  margin-bottom: 40px;
+}
+
+.hq-main-heading span {
+  color: #4f46e5;
+  border-bottom: 3px solid #4f46e5;
+  padding-bottom: 4px;
+}
+
+/* Left Side - Animation */
+.hq-hero-left {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 300px;
+  animation: hq-float 3s ease-in-out infinite;
+}
+
+.hq-boy-animation {
+  width: 400px;
+  max-width: 100%;
+  border-radius: 15px;
+}
+
+/* Right Side - Heading + Cards */
+.hq-hero-right {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px; /* Heading aur cards ke beech ka vertical gap kam kiya */
+  min-width: 250px;
+  text-align: center;
+}
+
+/* Sub Heading */
+.hq-hero-heading {
+  font-size: 36px;
+  font-weight: 700;
+  color: #333;
+}
+
+.hq-hero-heading span {
+  color: #4f46e5;
+  border-bottom: 3px solid #4f46e5;
+  padding-bottom: 3px;
+}
+
+/* Cards Wrapper */
+.hq-cards-wrapper {
+  display: flex;
+  gap: 15px; /* Cards ke beech ka gap thoda kam kiya */
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+/* Cards */
+.hq-card {
+  width: 200px;
+  background: #fff;
+  padding: 15px 20px;
+  border-radius: 15px;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.12);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.hq-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+}
+
+.hq-top-card {
+  background: linear-gradient(to right, #4f46e5, #8b5cf6);
+  color: #0b0808;
+}
+
+.hq-bottom-card {
+  background: linear-gradient(to right, #f97316, #fcd34d);
+  color: #000000;
+}
+
+.hq-card h2 {
+  font-size: 18px;
+  font-weight: 700;
+  margin: 8px 0;
+}
+
+.hq-card-link {
+  display: inline-block;
+  margin-top: 6px;
+  padding: 6px 18px;
+  background: #fff;
+  color: inherit;
+  font-weight: 600;
+  border-radius: 50px;
+  text-decoration: none;
+  font-size: 14px;
+  transition: all 0.3s ease;
+}
+
+.hq-card-link:hover {
+  background: rgba(255,255,255,0.9);
+  transform: translateY(-1px);
+}
+
+/* Floating animation for GIF */
+@keyframes hq-float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-15px); }
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+  .hq-hero-container {
+    flex-direction: column;
+    align-items: center;
+    gap: 25px; /* Mobile me gap bhi thoda kam */
+  }
+
+  .hq-hero-left, .hq-hero-right {
+    width: 100%;
+  }
+
+  .hq-cards-wrapper {
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .hq-main-heading {
+    font-size: 32px;
+    margin-bottom: 30px;
+  }
+
+  .hq-hero-heading {
+    font-size: 28px;
+  }
+}

@@ -1,0 +1,367 @@
+[
+  {
+    "id": "01",
+    "name": "Relations and Functions",
+    "ncertLink": "https://ncert.nic.in/ncerts/l/lemh102.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-maths/chapter-1-relations-and-function/",
+      "chapterLink2": "https://www.teachoo.com/subjects/cbse-maths/class-12th/ch1-12th-relation-and-functions/",
+      "chapterLink3": "https://www.mathongo.com/ncert-solutions/ncert-solutions-class-12-maths-chapter-1"
+    },
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtube.com/playlist?list=PLRqJJXr7d4U-sRJu6uGdHiuu43us1tzxO&si=hdA4vMromN6vflCH",
+      "youtubeLinks2": "https://youtube.com/playlist?list=PLKpIocYftnqhLml7Iq45jCqF6Gmq7Gb10&si=IqbFXK5_9tDzhRDp",
+      "youtubeLinks3": "https://youtube.com/playlist?list=PLr6TOxpiWwuFtpU7EeGbOqDc4vxnADbpf&si=zYzMqwcDa1_57D5O"
+    },
+
+    "Hname": " संबंध् एवं फलन",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhmh101.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-maths-chapter-1-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://youtube.com/playlist?list=PL2AiofAxqZwrAUV0ZaDThGvsrQPpvbbAj&si=4eZ9_MgJVIGh3Y-s",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "02",
+    "name": "Inverse Trigonometric Functions",
+    "ncertLink": "https://ncert.nic.in/ncerts/l/lemh102.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-maths/chapter-2-inverse-trigonometric-functions/",
+      "chapterLink2": "https://www.teachoo.com/subjects/cbse-maths/class-12th/ch2-12th-inverse-trigonometric-functions/",
+      "chapterLink3": "https://www.mathongo.com/ncert-solutions/ncert-solutions-class-11-maths-chapter-2"
+    },
+
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtube.com/playlist?list=PLRqJJXr7d4U_J_DRHGm8J4nr6496p5qzf&si=c70sF0VNzwR3-nID",
+      "youtubeLinks2": "https://youtube.com/playlist?list=PL8VYq471tmyKqhdebTyrvBhbrQgTM7ccj&si=FRIab9zSwoMQKZ_U",
+      "youtubeLinks3": "https://youtube.com/playlist?list=PLr6TOxpiWwuHJF_2mkXbr5YCn1nKuNAVc&si=EXF0oHGVZPDKmZt3"
+    },
+
+    "Hname": "प्रतिलोम त्रिकोणमितीय फलन ",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhmh102.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-maths-chapter-2-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://youtube.com/playlist?list=PLtFV0hYqGnElQLE_X-Zmo1bry3a6pQkoZ&si=c86LlXo5wWLr-V9x",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "03",
+    "name": "Matrices",
+    "ncertLink": "https://ncert.nic.in/ncerts/l/lemh103.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-maths/chapter-3-matrices/",
+      "chapterLink2": "https://www.mathongo.com/ncert-solutions/ncert-solutions-class-12-maths-chapter-3",
+      "chapterLink3": "https://www.teachoo.com/subjects/cbse-maths/class-12th/ch3-12th-matrices/"
+    },
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtube.com/playlist?list=PLRqJJXr7d4U9GVxxasUhQEfU0IFluPSNc&si=FXeFV6yK9t5iZkwn",
+      "youtubeLinks2": "https://youtube.com/playlist?list=PLbOkUmjwMtHs4dwoYUh8GrozuuxYs-ZN0&si=3HfyBCsGnP_rx45C",
+      "youtubeLinks3": "https://youtube.com/playlist?list=PLPFrn0ppwwkSiyIrO5Y1C4fWhlsHNY64f&si=eWUG_U66RUd9mVGp"
+    },
+
+    "Hname": "आव्यूह ",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhmh103.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-maths-chapter-3-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://youtube.com/playlist?list=PLtFV0hYqGnElQLE_X-Zmo1bry3a6pQkoZ&si=c86LlXo5wWLr-V9x",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "04",
+    "name": "Determinant",
+    "ncertLink": "https://ncert.nic.in/ncerts/l/lemh104.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-maths/chapter-4-determinants/",
+      "chapterLink2": "https://www.teachoo.com/subjects/cbse-maths/class-12th/ch4-12th-determinants/",
+      "chapterLink3": "https://www.mathongo.com/ncert-solutions/ncert-solutions-class-12-maths-chapter-4"
+    },
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtube.com/playlist?list=PLRqJJXr7d4U8tWrvGghVjBDfwtWBJUP7L&si=YE632gmCDtI8u6Hh",
+      "youtubeLinks2": "https://youtube.com/playlist?list=PL8VYq471tmyIdNNbxrCC7uCpYhT1gsBnY&si=kpIw8lCnZgzqBCMY",
+      "youtubeLinks3": "https://youtube.com/playlist?list=PLKpIocYftnqhPQCOu1AhY8xCS7J8s4yP9&si=hWPtLNUGCSE6MJ-g"
+    },
+
+    "Hname": "सारणिक ",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhmh104.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-maths-chapter-4-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://youtube.com/playlist?list=PLtFV0hYqGnElQLE_X-Zmo1bry3a6pQkoZ&si=c86LlXo5wWLr-V9x",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "05",
+    "name": "Continuity and Differentiability",
+    "ncertLink": "https://ncert.nic.in/ncerts/l/lemh105.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-maths/chapter-5-continuity-and-differentiability/",
+      "chapterLink2": "https://www.mathongo.com/ncert-solutions/ncert-solutions-class-12-maths-chapter-6",
+      "chapterLink3": "https://www.teachoo.com/subjects/cbse-maths/class-12th/ch6-12th-application-of-derivatives/"
+    },
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtube.com/playlist?list=PL8VYq471tmyJt41IZAtlQiRgESor6Qyeu&si=ftPO1WqGToOWsjNn",
+      "youtubeLinks2": "https://youtube.com/playlist?list=PLKpIocYftnqhQREXHBbzvaW3pr7YwOE91&si=olpb5eDE1pcy_klB",
+      "youtubeLinks3": "https://youtube.com/playlist?list=PLr6TOxpiWwuFCHuvpAjhG0T3DWxzvemCM&si=3f3ur_BipplqDOpy"
+    },
+
+    "Hname": "सांतत्य तथा अवकलनीयता ",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhmh105.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-maths-chapter-5-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://youtube.com/playlist?list=PLtFV0hYqGnElQLE_X-Zmo1bry3a6pQkoZ&si=c86LlXo5wWLr-V9x",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "06",
+    "name": "Applications of Derivatives",
+    "ncertLink": "https://ncert.nic.in/ncerts/l/lemh106.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-maths/chapter-6-applications-of-derivative/",
+      "chapterLink2": "https://www.mathongo.com/ncert-solutions/ncert-solutions-class-12-maths-chapter-6",
+      "chapterLink3": "https://www.teachoo.com/subjects/cbse-maths/class-12th/ch6-12th-application-of-derivatives/"
+    },
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtube.com/playlist?list=PLCzaIJYXP5YeQlWyhXo-5EB3EDu09vqBd&si=WSRJnaZc0WubWey9",
+      "youtubeLinks2": "https://youtube.com/playlist?list=PLKpIocYftnqgkMW-63MCDs1TPYvBDKUy-&si=r8cmQT8TXMGFUs87",
+      "youtubeLinks3": "https://youtube.com/playlist?list=PL8VYq471tmyK9a6IKg06pM-fHk_8gK9Ip&si=PIgaCxtkWYQCzvTl"
+    },
+
+    "Hname": "आवकलज के अनुप्रयोग ",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhmh106.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-maths-chapter-6-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://youtube.com/playlist?list=PLtFV0hYqGnElQLE_X-Zmo1bry3a6pQkoZ&si=c86LlXo5wWLr-V9x",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "07",
+    "name": "Integration",
+    "ncertLink": "https://ncert.nic.in/textbook/pdf/lemh201.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-maths/chapter-7-integrals/",
+      "chapterLink2": "https://www.mathongo.com/ncert-solutions/ncert-solutions-class-12-maths-chapter-7",
+      "chapterLink3": "https://www.teachoo.com/subjects/cbse-maths/class-12th/ch7-12th-integrals/"
+    },
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtube.com/playlist?list=PLRqJJXr7d4U_3AN52gki7BKD3HYVgEJWl&si=59_MjVRqFqC4m-tg",
+      "youtubeLinks2": "https://youtube.com/playlist?list=PLKpIocYftnqgZk8PrTK30ntYT4Ee_5a7o&si=rCxy01fvT0RKL0uf",
+      "youtubeLinks3": "https://youtube.com/playlist?list=PL8VYq471tmyLqWVELV0RO1-amCAxageMg&si=5OHj7Ysnz3_aeSgF"
+    },
+
+    "Hname": "समाकलन ",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhmh201.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-maths-chapter-7-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://youtube.com/playlist?list=PLtFV0hYqGnElQLE_X-Zmo1bry3a6pQkoZ&si=c86LlXo5wWLr-V9x",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "08",
+    "name": "Applications of integrals",
+    "ncertLink": "https://ncert.nic.in/textbook/pdf/lemh202.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-maths/chapter-8-application-of-integrals/",
+      "chapterLink2": "https://www.mathongo.com/ncert-solutions/ncert-solutions-class-12-maths-chapter-8",
+      "chapterLink3": "https://www.shaalaa.com/textbook-solutions/c/ncert-solutions-mathematics-class-12-chapter-8-application-of-integrals_22"
+    },
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtube.com/playlist?list=PLRqJJXr7d4U8_A46VoZ5tnr69vjb7fsg_&si=7mHxUUgAZd3VCLSL",
+      "youtubeLinks2": "https://youtube.com/playlist?list=PL8VYq471tmyLx3xx4VZmGUXZ9YWfsrVqT&si=Ie9JK0iSebFV-2rQ",
+      "youtubeLinks3": "https://youtube.com/playlist?list=PLPFrn0ppwwkQNkm2_CydgPHoPqQdAsih3&si=KR0LQwcMjogXxG8O"
+    },
+
+    "Hname": "समाकलनों के अनुप्रयोग ",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhmh202.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-maths-chapter-8-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://youtube.com/playlist?list=PLtFV0hYqGnElQLE_X-Zmo1bry3a6pQkoZ&si=c86LlXo5wWLr-V9x",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "09",
+    "name": "Differential Equations",
+    "ncertLink": "https://ncert.nic.in/textbook/pdf/lemh203.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-maths/chapter-9-differential-equations/",
+      "chapterLink2": "https://www.mathongo.com/ncert-solutions/ncert-solutions-class-12-maths-chapter-9",
+      "chapterLink3": "https://www.teachoo.com/subjects/cbse-maths/class-12th/ch9-12th-differential-equations/"
+    },
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtube.com/playlist?list=PLKpIocYftnqiPppwYhykJ8wH6zoL3n6wc&si=DWIypemRFWn0jy57",
+      "youtubeLinks2": "https://youtube.com/playlist?list=PLRqJJXr7d4U91fSGBLqAQZc8X-YDm1Kus&si=_Sz9ElQs1dOmtKwu",
+      "youtubeLinks3": "https://youtube.com/playlist?list=PL8VYq471tmyL0ENf3u-Q-bjeRe0kMT6io&si=3SP0WU0EA4yPdYXd"
+    },
+
+    "Hname": "अवकल समीकरण ",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhmh203.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-maths-chapter-9-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://youtube.com/playlist?list=PLtFV0hYqGnElQLE_X-Zmo1bry3a6pQkoZ&si=c86LlXo5wWLr-V9x",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "10",
+    "name": "Vector Algebra",
+    "ncertLink": "https://ncert.nic.in/textbook/pdf/lemh204.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-maths/chapter-10-vector-algebra/",
+      "chapterLink2": "https://www.mathongo.com/ncert-solutions/ncert-solutions-class-12-maths-chapter-10",
+      "chapterLink3": "https://www.teachoo.com/subjects/cbse-maths/class-12th/ch10-12th-vector-algebra/"
+    },
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtube.com/playlist?list=PLCzaIJYXP5Ydtza5ErtrBqCrY_9H3Xz2F&si=wx7dw38t5N1NVr1c",
+      "youtubeLinks2": "https://youtube.com/playlist?list=PLRqJJXr7d4U9nFNYHZWf1ZbnNRJG2NF9_&si=9jAQoARE3LWbHER7",
+      "youtubeLinks3": "https://youtube.com/playlist?list=PL8VYq471tmyLipkateu7Mlsiu7DFEterB&si=k2V5Qy-BTzjuroSx"
+    },
+
+    "Hname": "सदिश बीजगणित ",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhmh204.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-maths-chapter-10-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://youtube.com/playlist?list=PLtFV0hYqGnElQLE_X-Zmo1bry3a6pQkoZ&si=c86LlXo5wWLr-V9x",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "11",
+    "name": "Three Dimensional Geometry",
+    "ncertLink": "https://ncert.nic.in/textbook/pdf/lemh205.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-maths/chapter-11-3-dimensional-geometry/",
+      "chapterLink2": "https://www.mathongo.com/ncert-solutions/ncert-solutions-class-12-maths-chapter-11",
+      "chapterLink3": "https://www.teachoo.com/subjects/cbse-maths/class-12th/ch11-12th-three-dimensional-geometry/"
+    },
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtube.com/playlist?list=PLRqJJXr7d4U-2sCUfr_I0cUyAZeM4E6vx&si=qoj2biDjMfD-C6l9",
+      "youtubeLinks2": "https://youtube.com/playlist?list=PL8VYq471tmyKMe1p8DgEVIkTv_x4oQAmL&si=w5i9n4k3yfK0YIhP",
+      "youtubeLinks3": "https://youtube.com/playlist?list=PLpFwQ55AG3tRaAA8oo5SCv5tg0EgAKOZ_&si=G3JCyvXsuMGWQUX2"
+    },
+
+    "Hname": "त्रि-विमीय ज्यामिति ",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhmh205.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-maths-chapter-11-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://youtube.com/playlist?list=PLtFV0hYqGnElQLE_X-Zmo1bry3a6pQkoZ&si=c86LlXo5wWLr-V9x",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "12",
+    "name": "Linear Programming",
+    "ncertLink": "https://ncert.nic.in/textbook/pdf/lemh206.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-maths/chapter-12-linear-programming/",
+      "chapterLink2": "https://www.mathongo.com/ncert-solutions/ncert-solutions-class-12-maths-chapter-12",
+      "chapterLink3": "https://www.teachoo.com/subjects/cbse-maths/class-12th/ch12-12th-linear-programming/"
+    },
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtube.com/playlist?list=PL8VYq471tmyIFS4Q-adpnWxHxbrbNp5Fu&si=V2CZJOe5z5wTDmxm",
+      "youtubeLinks2": "https://youtube.com/playlist?list=PLPFrn0ppwwkRv_G2R4pG0yJwBiTcBD5fK&si=DOUpWzph6skMelIH",
+      "youtubeLinks3": "https://youtube.com/playlist?list=PLRqJJXr7d4U9SR-0k_hNS6Eb8T22YgXwx&si=9ib4T_T_heBJKwpW"
+    },
+
+    "Hname": "रैखिक प्रोग्रामन ",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhmh206.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-maths-chapter-12-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://youtube.com/playlist?list=PLtFV0hYqGnElQLE_X-Zmo1bry3a6pQkoZ&si=c86LlXo5wWLr-V9x",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "13",
+    "name": "Probability",
+    "ncertLink": "https://ncert.nic.in/textbook/pdf/lemh207.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-maths/chapter-13-probability/",
+      "chapterLink2": "https://www.mathongo.com/ncert-solutions/ncert-solutions-class-12-maths-chapter-13",
+      "chapterLink3": "https://www.teachoo.com/subjects/cbse-maths/class-12th/ch13-12th-probability/"
+    },
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtube.com/playlist?list=PLRqJJXr7d4U-zWidYzjy3COtBa3QGq0Id&si=2m8Mo3s3gDYOsQR6",
+      "youtubeLinks2": "https://youtube.com/playlist?list=PLQPK0MrSEwKKRRYU6pTyAjj2iMCDSQBlP&si=SCUV9ZiV05sMYEQE",
+      "youtubeLinks3": "https://youtube.com/playlist?list=PL8VYq471tmyJ27mgD_KfIt_jg4zSV2ZFp&si=rzSEsOjCuoZulWWB"
+    },
+
+    "Hname": "प्रायिकता ",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhmh207.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-maths-chapter-13-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://youtube.com/playlist?list=PLtFV0hYqGnElQLE_X-Zmo1bry3a6pQkoZ&si=c86LlXo5wWLr-V9x",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  }
+]

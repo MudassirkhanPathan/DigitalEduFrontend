@@ -1,0 +1,203 @@
+.meeting-container {
+  max-width: 800px;
+  margin: 100px auto;
+  font-family: poppins, sans-serif;
+  
+}
+
+.meeting-teacher-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  border-bottom: 1px solid #ddd;
+  padding: 20px;
+  border-radius: 20px;
+  background: linear-gradient(to right, #e0e4f9, #eee3df);
+  
+}
+
+.meeting-teacher-img, .meeting-extra-img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid #e0e4f9;
+  box-shadow: 0px 4px 12px rgba(49, 31, 31, 0.1);
+}
+
+.meeting-teacher-info {
+  flex: 1;
+}
+
+.meeting-container h3 {
+  margin-top: 30px;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.meeting-teacher-card h2 {
+  margin: 0;
+}
+
+.meeting-teacher-card p {
+  margin: 5px 0;
+}
+
+.exp {
+  color: gray;
+}
+
+.price {
+  background: linear-gradient(to right, #e0e4f9, #eee3df);
+  display: inline-block;
+  padding: 10px 15px;
+  border-radius: 25px;
+  border: 1px solid rgb(120, 116, 116);
+  color: #852020;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.meeting-date-container {
+  display: flex;
+  gap: 10px;
+  overflow-x: auto;
+  padding: 10px 0;
+}
+
+.meeting-date-card {
+  min-width: 100px;
+  text-align: center;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  cursor: pointer;
+  background: #fff;
+}
+
+.meeting-date-card.selected {
+  border: 2px solid #d8d8d8;
+  background: linear-gradient(to right, #e0e4f9, #eee3df);
+  color: #000000;
+  font-weight: bold;
+}
+
+.meeting-date-card.disabled {
+  cursor: not-allowed;
+  background: #f8d7da;
+  color: #999;
+}
+
+.available {
+  font-size: 12px;
+  color: green;
+}
+.not-available {
+  font-size: 12px;
+  color: red;
+}
+
+.meeting-time-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+  gap: 10px;
+}
+
+.meeting-time-card {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  cursor: pointer;
+  text-align: center;
+  background: #fff;
+}
+
+.meeting-time-card.selected {
+  border: 2px solid #d8d8d8;
+  background: linear-gradient(to right, #e0e4f9, #eee3df);
+  color: #000000;
+  font-weight: bold;
+}
+
+.meeting-pay-btn-container {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.meeting-pay-btn-container button {
+  padding: 14px 40px; /* thoda extra space */
+  min-width: 320px;   /* fixed minimum width for long text */
+  background: linear-gradient(to right, #e0e4f9, #eee3df);
+  color: #000000;
+  border: none;
+  border-radius: 10px;
+  font-size: 18px;
+  font-weight: 600;
+  cursor: pointer;
+  white-space: nowrap; /* text break na ho */
+  transition: all 0.3s ease;
+}
+
+.meeting-pay-btn-container button:hover {
+  background: linear-gradient(to right, #dfe9f3, #ffffff);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+
+.teacher-not-found {
+  text-align: center;
+}
+.popup-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  
+}
+
+.popup-content {
+  background: #fff;
+  padding: 30px;
+  border-radius: 15px;
+  text-align: center;
+  max-width: 400px;
+  width: 90%;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+  background: linear-gradient(to right, #e0e4f9, #eee3df);
+}
+
+.popup-content img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+.popup-content h2 {
+  margin: 10px 0;
+  color: #3182ce;
+}
+
+.popup-content p {
+  margin: 5px 0;
+  color: #555;
+}
+
+.popup-content button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: #3182ce;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}

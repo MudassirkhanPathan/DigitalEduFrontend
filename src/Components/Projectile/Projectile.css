@@ -1,0 +1,324 @@
+/* Chemisitry*/
+.periodic-container {
+  text-align: center;
+  font-family: Poppins, sans-serif;
+  margin: 40px;
+}
+
+.periodic-container h2 {
+  font-size: 28px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.periodic-container p {
+  font-size: 16px;
+  margin: 5px 0;
+}
+
+.timer-score {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin: 10px 0 20px 0;
+  font-weight: 600;
+}
+
+.groups {
+  margin-bottom: 20px;
+}
+
+.group-btn {
+  padding: 10px 15px;
+  margin: 5px;
+  background: #4f46e5;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: background 0.3s ease;
+}
+
+.group-btn:hover {
+  background: #6d57ff;
+}
+
+.group-btn.selected {
+  background: #f59e0b;
+}
+
+.elements {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+.element-card {
+  padding: 12px 18px;
+  background: #e0e4f9;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: transform 0.2s ease;
+}
+
+.element-card:hover {
+  transform: scale(1.1);
+  background: #c4c9f2;
+}
+
+.message {
+  font-weight: 600;
+  color: green;
+  margin-top: 10px;
+}
+/* Chemistry End */
+
+/* Bio Start */
+.body-puzzle-container {
+  text-align: center;
+  font-family: Poppins, sans-serif;
+  margin: 20px;
+}
+
+.body-puzzle-container h2 {
+  font-size: 28px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.body-puzzle-container p {
+  font-size: 16px;
+  margin: 5px 0;
+}
+
+.body-maze {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  margin-top: 20px;
+  flex-wrap: wrap;
+}
+
+.body-diagram {
+  position: relative;
+  width: 300px;
+  height: 400px;
+  background: #f0f0f0;
+  border-radius: 10px;
+  border: 2px solid #ccc;
+}
+
+.drop-zone {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  border: 2px dashed #4f46e5;
+  transition: background 0.3s ease;
+}
+
+.organs-pool {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.organ-card {
+  padding: 10px 15px;
+  background: #e0e4f9;
+  border-radius: 8px;
+  cursor: grab;
+  font-weight: 600;
+  transition: transform 0.2s ease;
+}
+
+.organ-card:hover {
+  transform: scale(1.1);
+  background: #c4c9f2;
+}
+
+.message {
+  font-weight: 600;
+  color: green;
+  margin-top: 15px;
+}
+/* Bio End */
+
+/* English */
+
+.sentence-race-container {
+  text-align: center;
+  font-family: Poppins, sans-serif;
+  margin: 20px;
+}
+
+.sentence-race-container h2 {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.jumbled-words {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.word-btn {
+  padding: 8px 15px;
+  background: #4f46e5;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: background 0.3s ease;
+}
+
+.word-btn:hover {
+  background: #6d57ff;
+}
+
+.selected-sentence {
+  min-height: 40px;
+  margin-bottom: 15px;
+  font-weight: 600;
+}
+
+.actions button {
+  padding: 8px 15px;
+  margin: 0 5px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: background 0.3s ease;
+}
+
+.submit-btn { background: #16a34a; color: #fff; }
+.submit-btn:hover { background: #22c55e; }
+
+.reset-btn { background: #ef4444; color: #fff; }
+.reset-btn:hover { background: #f87171; }
+
+.info p { margin: 5px 0; font-weight: 600; }
+
+.message {
+  margin-top: 10px;
+  font-weight: 600;
+  color: green;
+}
+
+/* English End */
+
+
+/* Reasoning start */
+
+.puzzle-container {
+  text-align: center;
+  padding: 20px;
+  font-family: Poppins, sans-serif;
+}
+
+.question {
+  font-size: 20px;
+  font-weight: 600;
+  margin: 20px 0;
+}
+
+input {
+  padding: 8px;
+  width: 250px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  margin-right: 10px;
+}
+
+button {
+  padding: 8px 15px;
+  border: none;
+  border-radius: 8px;
+  background: #4f46e5;
+  color: white;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+button:hover {
+  background: #6d57ff;
+}
+
+.message {
+  margin-top: 15px;
+  font-weight: 600;
+  color: green;
+}
+
+/* Reasoning end  */
+
+/* Main css */
+.game-cards-section {
+    font-family: Poppins, sans-serif;
+  text-align: center;
+  margin: 2rem auto;
+  max-width: 960px;
+  margin-top: 100px;
+}
+
+.game-cards-heading {
+  font-size: 1.8rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  color: #000000;
+}
+
+/* 2 x 2 layout */
+.game-cards-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  padding: 1rem;
+}
+
+.game-card {
+  background: linear-gradient(to right, #e0e4f9, #eee3df);
+  padding: 1.25rem;
+  border-radius: 1rem;
+  text-decoration: none;
+  color: #1f2937;
+  border: 2px solid transparent;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  transition: 0.3s ease;
+}
+
+.game-card h3 {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+  color: #000000;
+}
+
+.game-card p {
+  font-size: 0.95rem;
+  color: #6b7280;
+  line-height: 1.4;
+}
+
+.game-card:hover {
+  transform: translateY(-5px);
+  border-color: #000000;
+  box-shadow: 0 8px 20px rgba(79,70,229,0.25);
+}
+
+/* Mobile me 1 column */
+@media (max-width: 600px) {
+  .game-cards-container {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Main css end  */

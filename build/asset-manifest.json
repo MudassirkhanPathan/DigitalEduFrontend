@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2ce85e96.css",
+    "main.js": "/static/js/main.46132687.js",
+    "static/media/Boys.gif": "/static/media/Boys.535f3ed22ee9c489e17e.gif",
+    "static/media/Soumyasree.png": "/static/media/Soumyasree.e21f0d26dafb3b925b4c.png",
+    "static/media/maths.png": "/static/media/maths.662c51404f913c07ba2c.png",
+    "static/media/Biology.png": "/static/media/Biology.bb3fa88cd1fcaf5f5e75.png",
+    "static/media/Question.png": "/static/media/Question.a093d1a9b341a0fe8fa7.png",
+    "static/media/Cer.png": "/static/media/Cer.2099b11bce50d6468be7.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.2ce85e96.css.map": "/static/css/main.2ce85e96.css.map",
+    "main.46132687.js.map": "/static/js/main.46132687.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ce85e96.css",
+    "static/js/main.46132687.js"
+  ]
+}

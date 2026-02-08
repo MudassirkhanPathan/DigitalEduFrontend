@@ -1,0 +1,126 @@
+.teacher-container {
+  min-height: 80vh;
+  background: #f8f9ff;
+  padding: 60px 20px;
+  text-align: center;
+  
+}
+
+/* Title */
+.teacher-title {
+  font-size: 42px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  text-align: center;
+  position: relative;
+  display: inline-block;
+  margin-bottom: 50px;
+  color: #0b0b28;
+  letter-spacing: 1px;
+}
+
+.teacher-title::after {
+  content: "";
+  display: block;
+  width: 120px;
+  height: 4px;
+  background: linear-gradient(90deg, #4e54c8, #8f94fb);
+  margin: 10px auto 0;
+  border-radius: 2px;
+}
+
+/* Grid */
+.teacher-card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 30px;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 10px;
+}
+
+/* Card */
+.teacher-card {
+  background: rgba(255, 255, 255, 0.9);
+  padding: 25px 20px;
+  border-radius: 16px;
+  box-shadow: 0px 8px 20px rgba(0,0,0,0.08);
+  backdrop-filter: blur(10px);
+  transition: all 0.3s ease;
+  text-align: center;
+  border: 1px solid rgba(200, 200, 200, 0.2);
+  background: linear-gradient(to right, #e0e4f9, #eee3df);
+}
+
+.teacher-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0px 12px 30px rgba(0,0,0,0.15);
+  border-color: rgba(100, 100, 255, 0.4);
+}
+
+/* Image */
+.teacher-img {
+  width: 130px;
+  height: 130px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 15px;
+  border: 3px solid #e0e4f9;
+  box-shadow: 0px 4px 12px rgba(0,0,0,0.1);
+}
+
+/* Subject */
+.teacher-subject {
+  font-size: 20px;
+  font-weight: 600;
+  color: #222240;
+  margin-bottom: 8px;
+}
+
+/* Details */
+.teacher-detail {
+  font-size: 15px;
+  color: #555;
+  margin: 4px 0;
+  line-height: 1.4;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Button group */
+.teacher-button-group {
+  margin-top: 18px;
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+}
+
+/* Buttons */
+.teacher-btn {
+  padding: 10px 16px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 14px;
+  color: #fff;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  box-shadow: 0px 4px 12px rgba(0,0,0,0.15);
+}
+
+.teacher-btn-video {
+  background: linear-gradient(135deg, #47a0ff, #0066cc);
+}
+
+.teacher-btn-video:hover {
+  background: linear-gradient(135deg, #154375, #003366);
+  transform: translateY(-2px);
+}
+
+.teacher-btn-call {
+  background: linear-gradient(135deg, #2ecc71, #1e7e34);
+}
+
+.teacher-btn-call:hover {
+  background: linear-gradient(135deg, #1a5630, #145c2d);
+  transform: translateY(-2px);
+}

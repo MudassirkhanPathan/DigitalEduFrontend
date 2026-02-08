@@ -1,0 +1,481 @@
+[
+  {
+    "id": "01",
+    "name": " The Solid State",
+
+    "ncertLink": "https://ncert.nic.in/ncerts/l/lech101.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-chemistry/chapter-1-solid-state/",
+      "chapterLink2": "https://www.learncbse.in/ncert-solutions-for-class-12-chemistry-the-solid-state/#google_vignette",
+      "chapterLink3": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-chemistry-chapter-1-the-solid-state"
+    },
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtu.be/yuXOLjbxbm0?si=5hdn_tKAbqgGMbOy",
+      "youtubeLinks2": "https://youtube.com/playlist?list=PL2xF3HCNxGM_TWiDDYhEP_EM0isUkB2mR&si=WpJ8DhqDZ1o2J4EQ",
+      "youtubeLinks3": "https://youtu.be/CMwGopvmGo8?si=ttvOdeNCiktdnd3G"
+    },
+
+    "Hname": "ठोस अवस्था ",
+    "HncertLink": "https://www.esaral.com/media/uploads/2021/04/lhch101-min.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-chemistry-chapter-1-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://youtube.com/playlist?list=PL2AiofAxqZwpktLKy4qP89SNalZSL8Zuw&si=pXBF_UrhRjQ9gSt3",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "02",
+    "name": "Solutions",
+
+    "ncertLink": "https://ncert.nic.in/ncerts/l/lech102.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-chemistry/chapter-2-solutions/",
+      "chapterLink2": "https://www.learncbse.in/ncert-solutions-for-class-12-chemistry-solutions/",
+      "chapterLink3": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-chemistry-chapter-2-solutions"
+    },
+
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtu.be/e8cPTtEueC0?si=0E0TDTZQyFAGOQZy",
+      "youtubeLinks2": "https://youtube.com/playlist?list=PLxyduOqKKoWyYZpq_jA8MFo7Pq1LbmAGF&si=a9Se1Co5r8w3Jeb5",
+      "youtubeLinks3": "https://www.youtube.com/live/uVdpSl92qoI?si=l-iT6tWTBK-P3vT4"
+    },
+
+    "Hname": "विलयन",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhch101.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-chemistry-chapter-2-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://www.youtube.com/live/CSPa8c0AnAg?si=RM73uZmZppsa1TeU",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "03",
+    "name": "Electrochemistry",
+
+    "ncertLink": "https://ncert.nic.in/ncerts/l/lech103.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-chemistry/chapter-3-electrochemistry/",
+      "chapterLink2": "https://www.learncbse.in/ncert-solutions-for-class-12-chemistry-electrochemistry/",
+      "chapterLink3": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-chemistry-chapter-3-electrochemistry"
+    },
+
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtu.be/pQ1k4N1-pyQ?si=H4wGey1S203Iwzul",
+      "youtubeLinks2": "https://youtu.be/NZ9djVzSqQE?si=jlGUPibX7mQU8Ais",
+      "youtubeLinks3": "https://youtu.be/0NmYV5lWAKw?si=BxXwYrgElhXAg8gi"
+    },
+     
+    "Hname": " वैद्युतरसायन ",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhch102.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-chemistry-chapter-3-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://youtube.com/playlist?list=PL7KjrgOUKyaPptVaIS64Nxa2eeTXgy2NP&si=PJnZLv3bnp5eHRCG",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "04",
+    "name": "Chemical Kinetics",
+
+    "ncertLink": "https://ncert.nic.in/ncerts/l/lech104.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-chemistry/chapter-4-chemical-kinetics/",
+      "chapterLink2": "https://www.learncbse.in/ncert-solutions-for-class-12-chemistry-chemical-kinetics/",
+      "chapterLink3": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-chemistry-chapter-4-chemical-kinetics"
+    },
+
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtu.be/UOGMqrkJYlM?si=seg0t9VNT99XZcdQ",
+      "youtubeLinks2": "https://youtu.be/CT2SRwC-914?si=7g5TmOtDmlmsnPyd",
+      "youtubeLinks3": "https://www.youtube.com/live/xKyFYFqt-f8?si=A3pXyocDTpVaiQ6v"
+    },
+
+    "Hname": "रासायनिक बलगतिकी ",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhch103.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-chemistry-chapter-4-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://youtu.be/_ZOxBZWgPac?si=VEW6Gn9fiQknzfmN",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "05",
+    "name": "Surface Chemistry",
+
+    "ncertLink": "https://ncert.nic.in/ncerts/l/lech105.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-chemistry/chapter-5-surface-chemistry/",
+      "chapterLink2": "https://www.learncbse.in/ncert-solutions-for-class-12-chemistry-surface-chemistry/",
+      "chapterLink3": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-chemistry-chapter-5-surface-chemistry"
+    },
+
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtu.be/FVR1hmDrs1Q?si=RjGA8mCOqvlvkv6j",
+      "youtubeLinks2": "https://youtu.be/jWj-tVp7J9o?si=pWDoNqVYFYyWYuj6",
+      "youtubeLinks3": "https://youtu.be/AU5VbtxP284?si=6IKLeFa3P2Jw26mz"
+    },
+
+    "Hname": "पृष्ठ रसायन ",
+    "HncertLink": "",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-chemistry-chapter-5-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://youtu.be/egy54FXgjW4?si=rL0HpT7llcklIbcs",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "06",
+    "name": "General Principles and Processes of Isolation of Elements  ",
+
+    "ncertLink": "https://ncert.nic.in/ncerts/l/lech106.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-chemistry/chapter-6-isolation-of-elements/",
+      "chapterLink2": "https://www.learncbse.in/ncert-solutions-for-class-12-chemistry-general-principles-and-processes-of-isolation-of-elements/",
+      "chapterLink3": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-chemistry-chapter-6-general-principles-and-processes-of-isolation-of-elements"
+    },
+
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtube.com/playlist?list=PLdI5PAsgRM9LOjRF8OGEzQyTQ8RuG5U6U&si=3JVR8PkAgr8hxQ9e",
+      "youtubeLinks2": "https://youtube.com/playlist?list=PLFCTfSE2tR0q6nVd7NXombZNzZ2hYPhOm&si=2y4xfutdqrvD1-qR",
+      "youtubeLinks3": "https://youtu.be/JX7O3Xv5HFQ?si=HmsHFoGX_wJZcjhh"
+    },
+
+    "Hname": "तत्त्वों के निष्कर्षण के सिद्धान्त एवं प्रक्रम ",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhch106.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-chemistry-chapter-6-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://youtube.com/playlist?list=PL7KjrgOUKyaNjy6HkjB-mVNcRUU1Mimxf&si=5Ov4hxNkoSsR79ZR",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "07",
+    "name": "The p-Block Elements",
+
+    "ncertLink": "https://ncert.nic.in/ncerts/l/lech107.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-chemistry/chapter-7-p-block-elements/",
+      "chapterLink2": "https://www.learncbse.in/ncert-solutions-for-class-12-chemistry-the-p-block-elements/",
+      "chapterLink3": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-chemistry-chapter-7-the-p-block-elements"
+    },
+
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtu.be/WS2lFLr_YRo?si=4H2K2IFQDMbKXvua",
+      "youtubeLinks2": "https://youtube.com/playlist?list=PL2xF3HCNxGM-8K02VidiDA3FZmlAnamqp&si=Cm7sk2-p4jbObD-U",
+      "youtubeLinks3": "https://youtube.com/playlist?list=PLzSTglXGeoUsrdRMWxF9uh_5xxzdyVRKf&si=epX2DmHjREUYH73D"
+    },
+
+    "Hname": "p-ब्लॉक के तत्त्व ",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhch107.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-chemistry-chapter-7-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://youtube.com/playlist?list=PLlKSnUERQxOQTXy8_x3614MS0X3YTep1p&si=qAPOjY-2GfPiUOHC",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "08",
+    "name": "The d-and f-Block Elements",
+
+    "ncertLink": "https://ncert.nic.in/ncerts/l/lech108.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-chemistry/chapter-8-d-and-f-block-elements/",
+      "chapterLink2": "https://www.learncbse.in/ncert-solutions-for-class-12-chemistry-the-d-and-f-block-elements/",
+      "chapterLink3": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-chemistry-chapter-8-the-d-and-f-block-elements"
+    },
+
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtu.be/QnGxm46Gg84?si=xi-msfkEfX7XWdmv",
+      "youtubeLinks2": "https://youtu.be/tjt-Jh5m4Uw?si=I4k0h7xSnfjuSlOz",
+      "youtubeLinks3": "https://youtu.be/WQGRCIZG1eY?si=P42S17zZPJx-d6as"
+    },
+
+    "Hname": "d एवं f-ब्लॉक के तत्त्व ",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhch108.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-chemistry-chapter-8-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://youtube.com/playlist?list=PLlKSnUERQxOQCxon-BMU8K1W1S7EVth2e&si=ADmOSFaKYTU4Nm1i",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "09",
+    "name": "Coordination Compounds",
+
+    "ncertLink": "https://ncert.nic.in/ncerts/l/lech109.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-chemistry/chapter-9-coordination-compounds/",
+      "chapterLink2": "https://www.learncbse.in/ncert-solutions-for-class-12-chemistry-coordination-compounds/",
+      "chapterLink3": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-chemistry-chapter-9-coordination-compounds"
+    },
+
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtu.be/PpuPUMfr91Y?si=ahy1tzDy7i4wWKqV",
+      "youtubeLinks2": "https://youtu.be/PRFFVQ4_cf0?si=q3k9YE7zEvOcnr8A",
+      "youtubeLinks3": "https://youtu.be/vbEWh-mltRk?si=mMpC0UwSAUWm-Sb-"
+    },
+
+    "Hname": "उपसहसंयोजन यौगिक ",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhch109.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-chemistry-chapter-9-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://www.youtube.com/live/fWyWXK-SBH0?si=6QYNzwVAgR7yVecF",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "10",
+    "name": "Haloalkanes and Haloarenes",
+
+    "ncertLink": "https://ncert.nic.in/textbook/pdf/lech201.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-chemistry/chapter-10-haloalkanes-and-haloarenes/",
+      "chapterLink2": "https://www.learncbse.in/ncert-class-12-solutions-chemistry-chapter-10-haloalkanes-haloarenes/",
+      "chapterLink3": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-chemistry-chapter-10-haloalkanes-and-haloarenes"
+    },
+
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtu.be/PPKkaT4ThEk?si=FOdGD5JO8qoBxKP5",
+      "youtubeLinks2": "https://youtu.be/UhfvCKAxVOU?si=ldFQpWwk2aYCRo6a",
+      "youtubeLinks3": "https://youtu.be/Bvqg__fS8w0?si=y8nO-N91a04SXBll"
+    },
+
+    "Hname": " हैलोऐल्केन तथा हैलोऐरीन ",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhch201.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-chemistry-chapter-10-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://youtube.com/playlist?list=PLlKSnUERQxOQUYyQDIH-WUWVmSy4XpQt2&si=tpHoja7il2v9vWHU",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "11",
+    "name": "Alcohols, Phenols and Ethers",
+
+    "ncertLink": "https://ncert.nic.in/textbook/pdf/lech202.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-chemistry/chapter-11-alcohols-phenols-and-ethers/",
+      "chapterLink2": "https://www.learncbse.in/ncert-solutions-for-class-12-chemistry-alcohols-phenols-and-ether/",
+      "chapterLink3": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-chemistry-chapter-11-alcohols-phenols-and-ethers"
+    },
+
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtu.be/6XPd8qRC3Rs?si=FM7bGWB8_SlHCq0E",
+      "youtubeLinks2": "https://youtu.be/m8gmg6IYfUo?si=HFmEtlK7iuOFxAD9",
+      "youtubeLinks3": "https://youtube.com/playlist?list=PLdz2hPSXM86044ZH8_ozSi9RqX4tKIUQ8&si=g3zEx69gxga2OfJS"
+    },
+
+    "Hname": "ऐल्कोहॉल, फ़िनॉल एवं ईथर ",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhch202.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-chemistry-chapter-11-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://youtube.com/playlist?list=PLfZ5gl2dwi8hJpBdIgT-Vw3XEe4qqPxjl&si=fdFXDsVpPoCFEpS5",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "12",
+    "name": "Aldehydes, Ketones and Carboxylic Acids",
+
+    "ncertLink": "https://ncert.nic.in/textbook/pdf/lech203.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-chemistry/chapter-12-aldehydes-ketones-and-carboxylic-acids/",
+      "chapterLink2": "https://www.learncbse.in/ncert-solutions-for-class-12-chemistry-aldehydes-ketones-and-carboxylic-acids/",
+      "chapterLink3": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-chemistry-chapter-12-aldehydes-ketones-and-carboxylic-acids"
+    },
+
+    "youtubeLinks": {
+      "youtubeLinks1": "https://www.youtube.com/live/n-cw5OWR8KE?si=FZVs-r1L4istQz16",
+      "youtubeLinks2": "https://www.youtube.com/live/xM2g3S3w0iM?si=uJ1uW3i7XzsoFIEe",
+      "youtubeLinks3": "https://www.youtube.com/live/T0NQeWemwD0?si=NRYOX4si8hnee0ms"
+    },
+
+    "Hname": "ऐल्डिहाइड, कीटोन एवं कार्बोक्सिलिक अम्ल",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhch203.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-chemistry-chapter-12-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://youtu.be/60AkTQnRl_w?si=TkM6EaKwT4Xj-jG0",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "13",
+    "name": "Amines",
+
+    "ncertLink": "https://ncert.nic.in/textbook/pdf/lech204.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-chemistry/chapter-13-organic-compounds-containing-nitrogen/",
+      "chapterLink2": "https://www.learncbse.in/ncert-solutions-for-class-12-chemistry-amines/",
+      "chapterLink3": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-chemistry-chapter-13-amines"
+    },
+
+    "youtubeLinks": {
+      "youtubeLinks1": "https://www.youtube.com/live/tVv9-IvBKhA?si=alxeOPDanFp-EzfP",
+      "youtubeLinks2": "https://youtube.com/playlist?list=PLfZ5gl2dwi8g4TVzwYXoYXIu81OCy_pr-&si=o6_ikfa7f-htVbWh",
+      "youtubeLinks3": "https://youtube.com/playlist?list=PL0jDLAjAeopy7lOEQGg-_bGVMmTQzacwE&si=Iz62iDIbehITfpM5"
+    },
+
+    "Hname": "ऐमीन ",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhch204.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-chemistry-chapter-13-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://youtube.com/playlist?list=PL7KjrgOUKyaOOWn3Gu6l5Tdzo0_HdLZe_&si=3aSbJJs9RPkJmRMg",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "14",
+    "name": "Biomolecules",
+
+    "ncertLink": "https://ncert.nic.in/textbook/pdf/lech205.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-chemistry/chapter-14-biomolecules/",
+      "chapterLink2": "https://www.learncbse.in/ncert-solutions-for-class-12-chemistry-biomolecules/",
+      "chapterLink3": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-chemistry-chapter-14-biomolecules"
+    },
+
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtu.be/zBGH5lvbAq0?si=YTJb_Et2-nwCzgOz",
+      "youtubeLinks2": "https://youtu.be/XV1m1IeWXqU?si=VWCMvOzQmLIiZEtL",
+      "youtubeLinks3": "https://www.youtube.com/live/lkAIoq7vN6o?si=6fgsImMPNjQUYVZX"
+    },
+
+    "Hname": "जैव-अणु ",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhch205.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-chemistry-chapter-14-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://www.youtube.com/live/SsG4nW5zMM4?si=wZqEFKVNjc4QJ2RA",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "15",
+    "name": "Polymers",
+
+    "ncertLink": "https://ncert.nic.in/textbook/pdf/lech206.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-chemistry/chapter-15-polymers/",
+      "chapterLink2": "https://www.learncbse.in/ncert-solutions-for-class-12-chemistry-polymers/",
+      "chapterLink3": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-chemistry-chapter-15-polymers"
+    },
+
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtube.com/playlist?list=PLr3zSV9yDFZ2o38NmMKC2MFw9JKzaD-0J&si=m2Qdff2QkMclagXa",
+      "youtubeLinks2": "https://youtube.com/playlist?list=PLdCuqU1ENjaIRSnCgyDspu-SlDB_38Giu&si=t2BkqvvvAugRSO-N",
+      "youtubeLinks3": "https://youtube.com/playlist?list=PLQ9cqMufvw5hrgsdK2FzaTAjgE-5s453i&si=cmin1cI_HCE6ZcCW"
+    },
+
+    "Hname": "बहुलक",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhch206.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-chemistry-chapter-15-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://youtube.com/playlist?list=PLg4ZgIrswbXVHD6bHRBsUUuqohUQlHwsh&si=H7X_IKEqeRnEdGZw",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  },
+  {
+    "id": "16",
+    "name": "Chemistry in Everyday Life",
+
+    "ncertLink": "https://ncert.nic.in/textbook/pdf/lech207.pdf",
+    "chapterLinks": {
+      "chapterLink1": "https://byjus.com/ncert-solutions-class-12-chemistry/chapter-16-chemistry-in-everyday-life/",
+      "chapterLink2": "https://www.learncbse.in/ncert-solutions-for-class-12-chemistry-chemistry-in-everyday-life/",
+      "chapterLink3": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-chemistry-chapter-16-chemistry-in-everyday-life"
+    },
+
+    "youtubeLinks": {
+      "youtubeLinks1": "https://youtube.com/playlist?list=PLawFSE1tnO1r6PmXn9_hZGXMkjQMuq1oe&si=aBqj8Tj5TcJ7SLJo",
+      "youtubeLinks2": "https://youtu.be/K4RNJO3lD-Y?si=j7Xl8QVnG9P26xH_",
+      "youtubeLinks3": "https://youtu.be/nJ3d54pxJGA?si=R52Bb6IXsa0EAVUp"
+    },
+
+    "Hname": " दैनिक जीवन में रसायन ",
+    "HncertLink": "https://ncert.nic.in/textbook/pdf/lhch207.pdf",
+    "HchapterLinks": {
+      "HchapterLink1": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-12-chemistry-chapter-16-in-hindi",
+      "HchapterLink2": "",
+      "HchapterLink3": ""
+    },
+    "HyoutubeLinks": {
+      "HyoutubeLinks1": "https://youtu.be/8XrBZC6uMq8?si=gn9g-rkivHDTyVHJ",
+      "HyoutubeLinks2": "",
+      "HyoutubeLinks3": ""
+    }
+  }
+]

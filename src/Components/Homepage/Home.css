@@ -1,0 +1,389 @@
+/* ===== Global Styles ===== */
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: nexa;
+    overflow-x: hidden; /* prevent horizontal scroll */
+}
+
+ul {
+    list-style: none;
+    font-size: 22px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* ===== Section Styling ===== */
+.ask-ai-link {
+  text-decoration: none;
+  display: inline-block;
+}
+
+.ask-ai-box {
+  width: 500px;
+  height: 190px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  padding: 20px;
+  font-family: 'Poppins', sans-serif;
+  position: relative;
+  cursor: pointer;
+  transition: transform 0.2s, box-shadow 0.2s;
+  background: linear-gradient(to right, #e0e4f9, #eee3df);  
+}
+
+.ask-ai-box:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.15);
+  
+}
+
+.ask-ai-header {
+  font-size: 14px;
+  font-weight: 600;
+  color: #666;
+  margin-bottom: 15px;
+}
+
+.ask-ai-content p {
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 500;
+}
+
+.ask-ai-content .blue { color: #3a8dde; }
+.ask-ai-content .purple { color: #7b61ff; }
+.ask-ai-content .black { color: #333; }
+
+.ask-ai-input {
+  position: absolute;
+  bottom: 15px;
+  left: 20px;
+  right: 20px;
+}
+
+.ask-ai-input input {
+  width: 100%;
+  padding: 10px 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  font-size: 14px;
+  outline: none;
+  background: #f9f9f9;
+  pointer-events: none; /* disable typing because whole box is link */
+}
+
+
+/* ===== Navigation ===== */
+.homeNav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  width: 100%;
+  height: 70px;
+  padding: 0 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgba(117, 115, 115, 0.8);
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+  transition: background-color 0.3s ease;
+}
+
+.homeNav.open {
+  background-color: #111;
+}
+
+.homeNav h2 {
+  font-size: 24px;
+  font-weight: 900;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+.homeNav .nav {
+  display: flex;
+  list-style: none;
+  gap: 25px;
+  margin: 0;
+  padding: 0;
+}
+
+.homeNav .nav li a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: 600;
+  text-transform: capitalize;
+  transition: color 0.3s;
+}
+
+.homeNav .nav li a:hover {
+  color: #b7c1c2;
+}
+
+.homeNav .menu-toggle {
+  display: none; /* Will show only on small screens */
+  cursor: pointer;
+}
+
+.homeNav .menu-toggle i {
+  font-size: 24px;
+  color: #fff;
+}
+
+/* Responsive Navbar */
+@media screen and (max-width: 768px) {
+  .homeNav {
+    padding: 0 20px;
+  }
+
+  .homeNav .nav {
+    display: none;
+    position: absolute;
+    top: 70px;
+    left: 0;
+    width: 100%;
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.95);
+  }
+
+  .homeNav .nav.open {
+    display: flex;
+  }
+
+  .homeNav .nav li {
+    margin: 15px 0;
+    text-align: center;
+  }
+
+  .homeNav .menu-toggle {
+    display: block;
+  }
+}
+
+/* ===== Dropdown Menu CSS ===== */
+.dropdown-container {
+    position: relative;
+}
+
+.dropdown {
+    font-size: 15px;
+    padding: 5px;
+}
+
+.dropdown-container .submenu {
+    display: none;
+    position: absolute;
+    margin-top: 5px;
+    left: 0;
+    z-index: 20;
+    background-color: white;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    list-style: none;
+    padding: 10px 0;
+    border-radius: 6px;
+    min-width: 200px;
+}
+
+.dropdown-container:hover .submenu {
+    display: block;
+}
+
+.dropdown-container .submenu li {
+    margin: 0;
+    padding: 8px 20px;
+    white-space: nowrap;
+}
+
+.dropdown-container .submenu li a {
+    color: #000;
+    text-decoration: none;
+    font-weight: 400;
+}
+
+.dropdown-container .submenu li:hover {
+    background-color: #f1f1f1;
+}
+
+/* ===== Box / Hero Section ===== */
+.box {
+    position: relative;
+    justify-content: center;
+    min-height: 100vh;
+    color: #fff;
+    text-align: center;
+}
+
+.box video {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+}
+
+.box .boxBlur {
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+    background: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    opacity: 0.9;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    transition: 0.6s;
+}
+
+.box h1 {
+  margin-bottom: 15px;
+  font-size: 65px;
+  font-weight: 800;
+  text-align: center;
+
+  /* Gradient Text */
+  background: linear-gradient(to right, #e0e4f9, #eee3df, #e0e4f9);
+  background-size: 200% auto;
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+
+  /* Animation */
+  animation: shine 4s linear infinite;
+  text-shadow: none; /* optional: remove if gradient should be clean */
+}
+
+@keyframes shine {
+  0% {
+    background-position: 0% center;
+  }
+  100% {
+    background-position: 200% center;
+  }
+}
+
+
+.box h3 {
+    margin-bottom: 40px;
+    font-size: 25px;
+}
+
+.box a.boxBtn {
+    padding: 15px 35px;
+    background: transparent;
+    border-radius: 50px;
+    color: #fff;
+    text-transform: uppercase;
+    border: 4px solid #fff;
+    transition: all 0.5s;
+}
+
+.box a.boxBtn:hover {
+    background: #fff;
+    color: #000;
+}
+
+/* ===== Cards ===== */
+
+/* ===== Responsive ===== */
+@media (max-width: 1000px) {
+    section {
+        padding: 100px 50px;
+    }
+    .homeNav {
+        padding: 20px 50px;
+    }
+}
+
+@media (max-width: 800px) {
+    .box {
+        min-height: 600px;
+    }
+    .box h1 {
+        font-size: 32px;
+        margin-top: 20px;
+    }
+    .box h3 {
+        font-size: 20px;
+    }
+    .box a.boxBtn {
+        padding: 15px 40px;
+    }
+    ul {
+        margin-top: 0;
+    }
+}
+
+@media (max-width: 700px) {
+    .homeNav {
+        flex-direction: column;
+        width: 100%;
+    }
+    .homeNav h2 {
+        margin-top: 1px;
+        font-size: 1rem;
+        margin-left: 0;
+    }
+    .homeNav .nav li {
+        margin: 5px;
+        font-size: 15px;
+    }
+    .card {
+        width: 90%;
+        max-width: 350px;
+        padding: 20px;
+    }
+}
+
+@media (max-width: 480px) {
+    .homeNav h2 {
+        font-size: 22px;
+    }
+    .box h3 {
+        font-size: 15px;
+        padding: 0 15px;
+        line-height: 1.2;
+    }
+}
+
+/* Tablet media query */
+@media (min-width: 768px) and (max-width: 1200px) {
+    .homeNav h2 {
+        font-size: 24px;
+        margin-top: 12px;
+    }
+    .homeNav .nav li {
+        font-size: 17px;
+    }
+    .box .boxBlur h1 {
+        font-size: 28px;
+    }
+    .box .boxBlur h3 {
+        font-size: 18px;
+    }
+    .card {
+        width: 45%;
+        max-width: 350px;
+    }
+}

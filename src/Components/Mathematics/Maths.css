@@ -1,0 +1,482 @@
+/* ================== maths blueprint start =========== */
+    
+.container-blueprint{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    margin-top: 60px;
+}
+.card-blueprint {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    overflow: hidden;
+    /* margin: 20px; */
+    width: 600px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+     transition: transform 0.2s;
+}
+.card-blueprint:hover {
+    transform: scale(1.05);
+    
+}
+.card-blueprint:hover{
+    transform: scale(1.05);
+    background: linear-gradient(to right, #e0e4f9, #eee3df);
+}
+
+.card-blueprint img {
+    width: 100%;
+    height: 140px;
+}
+
+.card-blueprint-content {
+    padding: 15px;
+}
+
+.card-blueprint-content h2 {
+    margin: 0;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.card-blueprint-content p {
+    margin: 10px 0 0;
+    color: #555;
+    text-align: center;
+} 
+.card-blueprint-content h2:hover{
+    opacity: 0.2;
+    font-weight: 1000;
+    color: rgb(24, 14, 14);
+}
+ 
+@media (max-width: 480px){
+    .card-blueprint-content h2{
+        font-size: 1.2em;
+    } 
+    .container-blueprint{
+        z-index: 0;
+    }
+}  
+/* ================== maths blueprint end =========== */
+
+/* ======================== maths slider start =============== */
+.instruct-slider {
+    position: relative;
+    width: 80%;
+    height: 430px;
+    max-width: 800px;
+    overflow: hidden;
+    margin: auto;
+    margin-top: 60px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    
+}
+
+.slides {
+    display: flex;
+    transition: transform 0.5s ease-in-out;   
+}
+
+.slide {
+    min-width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+.slide img {
+    max-height: 100%;
+    max-width: 100%;
+    
+    object-fit: cover;
+    margin-right: 0;
+}
+
+.navigation-dots {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.dot {
+    position: relative;
+    top: -2px;
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    margin: 5px;
+    background-color: #bbb;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.dot.active {
+    background-color: #333;
+}
+
+  @media (max-width: 480px){
+    .instruct-slider{
+        margin-top:0;
+        height: 380px;
+    }
+    .slides{
+        height: 300px;
+    }
+    .slide{
+        height: 300px;
+    }
+    
+.slide img {
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: cover;
+    justify-content: center;
+    margin-right: 0;
+    display: block;
+    margin: auto;
+}
+  }
+  @media (max-width: 768px){
+    .instruct-slider{
+        margin-top: 350px;
+    }
+    
+.slide img {
+    max-height: 100%;
+    max-width: 100%;
+    
+    object-fit: cover;
+    margin-right: 150px;
+    display: block;
+    margin: auto;
+}
+  }
+  @media (max-width: 768px){
+    .slide img{
+        justify-content: center;
+        
+    }
+  }
+/* ================== maths slider end ================ */
+
+
+
+/* ============ maths css start ================== */
+.table-container {
+    width: 80%;
+    margin: auto;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.table-Total {
+    margin-left: 520px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
+}
+
+thead {
+    background-color: #343a40;
+    color: white;
+}
+
+.blueprint-num {
+    padding-left: 300px;
+}
+
+th, td {
+    padding: 18px;
+    text-align: left;
+    padding-left: 100px;
+}
+tbody tr {
+    background-color: white;
+    border-bottom: 1px solid #ddd;
+}
+
+tbody tr:hover {
+    background: linear-gradient(to right, #e0e4f9, #eee3df);
+    cursor: pointer;
+}
+
+.popup-container {
+    display: none;
+}
+
+.popup-container.open {
+    display: block;
+   
+
+}
+
+.popup {
+    position: fixed; 
+    top: 50%;
+    left: 50%; 
+    transform: translate(-50%, -50%) scale(0);
+    width: 80%;
+    padding: 10px;
+    background: #fff;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
+    z-index: 1001;
+    opacity: 0;
+}
+.chapterLinks a{
+    display: flex;
+    flex-direction: column;
+    line-height: 0.2;
+}
+.youtubeLinks a{
+    display: flex;
+    flex-direction: column;
+}
+.C-links{
+    text-decoration: underline;
+}
+.C-links:hover{
+    
+    font-weight: 1000;
+    color: rgb(81, 96, 147);
+}
+
+.popup.open {
+    transform: translate(-50%, -50%) scale(1);
+    opacity: 1;
+}
+
+.popup-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.popup-header h2 {
+    margin: 0;
+}
+
+.popup-close {
+    cursor: pointer;
+    border: none;
+    background: none;
+    font-size: 1.5em;
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease-in-out, visibility 0.3s ease-in-out;
+    z-index: 1000;
+}
+
+.overlay.open {
+    opacity: 1;
+    visibility: visible;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px 0;
+    background: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background: linear-gradient(to right, #e0e4f9, #eee3df);
+}
+
+@media (max-width: 768px) {
+    .table-container {
+        width: 100%;
+    }
+
+    .blueprint-num {
+        padding-left: 0;
+    }
+
+    th, td {
+        padding-left: 20px;
+        padding: 12px;
+    }
+
+    .popup {
+        width: 80%;
+    }
+}
+
+@media (max-width: 480px) {
+    th, td {
+        padding-left: 10px;
+        margin-left: 50px;
+        padding: 8px;
+    }
+
+    .popup {
+        width: 95%;
+    }
+}
+/* ============ maths css  end ================== */
+
+/* Modal styles */
+/* .modal {
+    display: flex;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.4);
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content {
+    background-color: #fefefe;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+    max-width: 500px;
+    border-radius: 10px;
+}
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+}
+.popup-table {
+    width: 100%;
+    height: 300px;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    
+  }
+  
+  .popup-table th, .popup-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+
+  }
+  
+  .popup-table th {
+    background-color: #f2f2f2;
+    color: #333;
+  }
+  
+  .popup-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .popup-table tr:hover {
+    background-color: #ddd;
+  }
+ */
+  /* ============ blueprint css start ====== */
+ 
+  .container-blueprint {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 100px;
+    gap: 20px;
+    height: 300px;
+  }
+  .card-blueprint {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    width: 300px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+    cursor: pointer;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .card-blueprint img {
+    width: 100%;
+    height: 140px;
+  }
+  
+  .card-blueprint-content {
+    padding: 15px;
+  }
+  
+  .card-blueprint h2 {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
+  .card-blueprint p {
+    color: #555;
+  }
+  
+  .card-blueprint:hover {
+    transform: translateY(-5px);
+  }
+  
+  /* Popup styles */
+  .popup-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: none;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .popup-content {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    max-width: 600px;
+    width: 100%;
+    text-align: left;
+  }
+ .popup-overlay.active {
+    display: flex;
+  }
+  
