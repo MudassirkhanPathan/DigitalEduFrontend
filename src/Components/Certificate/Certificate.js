@@ -14,11 +14,11 @@ export default function Certificate() {
 
     try {
       const res = await axios.post(
-        "http://localhost:5000/api/certificate/generate",
+        "hhttps://digitaledubackend.onrender.com/api/certificate/generate",
         {
           studentName,
           subject,
-        }
+        },
       );
 
       setPdfUrl(`http://localhost:5000${res.data.file}`); // pdf url set

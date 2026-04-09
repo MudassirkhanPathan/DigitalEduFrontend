@@ -11,13 +11,16 @@ export default function Signup() {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      await axios.post("http://localhost:5000/api/auth/signup", form);
+      await axios.post(
+        "https://digitaledubackend.onrender.com/api/auth/signup",
+        form,
+      );
       alert("Signup successful!");
       navigate("/login");
     } catch (err) {
       console.error(err);
       alert(
-        "Signup failed: " + (err.response?.data?.message || "Server error")
+        "Signup failed: " + (err.response?.data?.message || "Server error"),
       );
     }
   };

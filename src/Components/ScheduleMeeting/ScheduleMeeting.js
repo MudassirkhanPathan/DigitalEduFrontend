@@ -46,9 +46,12 @@ export default function ScheduleMeeting() {
       return;
     }
 
-    const res = await fetch("http://localhost:5000/api/payment/create-order", {
-      method: "POST",
-    });
+    const res = await fetch(
+      "https://digitaledubackend.onrender.com/api/payment/create-order",
+      {
+        method: "POST",
+      },
+    );
     const order = await res.json();
 
     const options = {

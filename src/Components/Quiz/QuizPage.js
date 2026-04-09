@@ -28,15 +28,15 @@ const QuizApp = ({ userId }) => {
   const fetchQuestions = async (
     type = "first",
     subjectParam = null,
-    batchParam = null
+    batchParam = null,
   ) => {
     const subjectToUse = subjectParam || selectedSubject;
     const batchToUse = batchParam || batch;
 
     const url =
       type === "first"
-        ? "http://localhost:5000/api/quiz/first"
-        : "http://localhost:5000/api/quiz/next";
+        ? "https://digitaledubackend.onrender.com/api/quiz/first"
+        : "https://digitaledubackend.onrender.com/api/quiz/next";
     const body =
       type === "first"
         ? { subject: subjectToUse }
@@ -112,17 +112,20 @@ const QuizApp = ({ userId }) => {
       }
       //From data to pass the value
 
-      const res = await fetch("http://localhost:5000/api/quiz/submit", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-          Authorization: `Bearer ${token}`, // ✅ sahi format
+      const res = await fetch(
+        "https://digitaledubackend.onrender.com/api/quiz/submit",
+        {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+            Authorization: `Bearer ${token}`, // ✅ sahi format
+          },
+          body: JSON.stringify({
+            subject: selectedSubject,
+            score: score, // ✅ sirf subject aur score bhejna hai
+          }),
         },
-        body: JSON.stringify({
-          subject: selectedSubject,
-          score: score, // ✅ sirf subject aur score bhejna hai
-        }),
-      });
+      );
 
       if (!res.ok) throw new Error(`Server error: ${res.status}`);
 

@@ -21,18 +21,21 @@ export default function Footer() {
     e.preventDefault();
 
     try {
-      const res = await fetch("http://localhost:5000/api/contact", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(formData),
-      });
+      const res = await fetch(
+        "https://digitaledubackend.onrender.com/api/contact",
+        {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(formData),
+        },
+      );
 
       const data = await res.json();
 
       if (!res.ok) throw new Error(data.message || "Something went wrong");
 
       setPopupMessage(
-        "✅ Your query has been submitted! Our support team will reach out soon."
+        "✅ Your query has been submitted! Our support team will reach out soon.",
       );
       setShowPopup(true);
       setFormData({ name: "", email: "", subject: "", message: "" });

@@ -9,9 +9,12 @@ export default function AIChat() {
   const handleAsk = async () => {
     if (!question.trim()) return;
     try {
-      const res = await axios.post("http://localhost:5000/api/ask", {
-        question,
-      });
+      const res = await axios.post(
+        "https://digitaledubackend.onrender.com/api/ask",
+        {
+          question,
+        },
+      );
       setAnswer(res.data.answer);
     } catch (err) {
       setAnswer("Error fetching answer. Please try again.");
@@ -41,7 +44,7 @@ export default function AIChat() {
             {answer
               .split(/\n+/) // split on new lines
               .map((line, index) =>
-                line.trim() ? <p key={index}>• {line.trim()}</p> : null
+                line.trim() ? <p key={index}>• {line.trim()}</p> : null,
               )}
           </div>
         ) : (
