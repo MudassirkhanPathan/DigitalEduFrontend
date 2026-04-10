@@ -83,11 +83,9 @@ a {
 }
 
 .mainNav .mainNavContent li:hover {
-    opacity: 0.2;
-    font-weight: 1000;
     color: rgb(24, 14, 14);
+    font-weight: 1000;
 }
-
 .mainNav .mainNavContent li:first-child {
     margin-left: 0;
 }
