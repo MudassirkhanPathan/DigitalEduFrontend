@@ -21,7 +21,7 @@ export default function Certificate() {
         },
       );
 
-      setPdfUrl(`http://localhost:5000${res.data.file}`); // pdf url set
+      setPdfUrl(`https://digitaledubackend.onrender.com${res.data.file}`); // pdf url set
     } catch (err) {
       console.error("Certificate error:", err.response?.data || err.message);
       alert("Something went wrong while generating certificate");
