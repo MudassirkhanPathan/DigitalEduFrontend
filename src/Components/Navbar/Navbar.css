@@ -142,9 +142,21 @@ a {
     color: #fdfafa;
 }
 
+.dropdown-container .submenu {
+    background-color: #111; /* slight dark instead of pure black */
+}
+
+.dropdown-container .submenu li {
+    color: #fff;
+}
+
 .dropdown-container .submenu li a {
-    color: #222;
-    text-decoration: none;
+    color: #fff;
+}
+
+.dropdown-container .submenu li:hover {
+    background-color: #333;
+    color: #fff;
 }
 
 .dropdown-container .submenu:hover {
