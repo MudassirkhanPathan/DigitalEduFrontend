@@ -1,23 +1,29 @@
 import axios from "axios";
 import { useState } from "react";
-import "../AskImplement/ai.css"; // 👈 CSS file import
+import "../AskImplement/ai.css";
 
 export default function AIChat() {
   const [question, setQuestion] = useState("");
   const [answer, setAnswer] = useState("");
+  const [loading, setLoading] = useState(false);
 
   const handleAsk = async () => {
     if (!question.trim()) return;
+
+    setLoading(true);
+    setAnswer("");
+
     try {
       const res = await axios.post(
         "https://digitaledubackend.onrender.com/api/ask",
-        {
-          question,
-        },
+        { question },
       );
+
       setAnswer(res.data.answer);
     } catch (err) {
-      setAnswer("Error fetching answer. Please try again.");
+      setAnswer("⚠️ Server error. Try again.");
+    } finally {
+      setLoading(false);
     }
   };
 
@@ -33,20 +39,19 @@ export default function AIChat() {
           placeholder="Ask your question..."
           className="chat-input"
         />
+
         <button onClick={handleAsk} className="chat-button">
-          Ask AI
+          {loading ? "Thinking..." : "Ask AI"}
         </button>
       </div>
 
       <div className="chat-answer">
-        {answer ? (
-          <div>
-            {answer
-              .split(/\n+/) // split on new lines
-              .map((line, index) =>
-                line.trim() ? <p key={index}>• {line.trim()}</p> : null,
-              )}
-          </div>
+        {loading ? (
+          <p>🤖 Thinking...</p>
+        ) : answer ? (
+          answer
+            .split(/\n+/)
+            .map((line, i) => (line.trim() ? <p key={i}>• {line}</p> : null))
         ) : (
           <p className="placeholder">🤖 Waiting for your question...</p>
         )}
