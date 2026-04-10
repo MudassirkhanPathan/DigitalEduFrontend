@@ -14,7 +14,7 @@ export default function Certificate() {
 
     try {
       const res = await axios.post(
-        "hhttps://digitaledubackend.onrender.com/api/certificate/generate",
+        "https://digitaledubackend.onrender.com/api/certificate/generate",
         {
           studentName,
           subject,
