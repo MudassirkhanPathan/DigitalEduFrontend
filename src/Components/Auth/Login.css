@@ -1,139 +1,162 @@
-/* Login.css */
+/* 🔥 Background Upgrade */
 .login-container {
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: linear-gradient(135deg, #ffffff 0%, #ffffff 100%);
+
+    /* 👇 Strong gradient */
+    background: linear-gradient(135deg, #7e7e7e 0%, #89b6fe 100%);
+    
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    overflow: hidden;
 }
 
+/* 🔥 FORM UPGRADE */
 .login-form {
-    background: linear-gradient(to right, #e0e4f9, #eee3df);
+    background: linear-gradient(135deg, rgba(255,255,255,0.08), rgba(255,255,255,0.03));
+    
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+
     padding: 2.5rem;
-    border-radius: 16px;
-    box-shadow: 0 16px 32px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+
+    border: 1px solid rgba(255,255,255,0.1);
+
+    box-shadow: 
+        0 20px 60px rgba(0,0,0,0.5),
+        inset 0 0 20px rgba(255,255,255,0.05);
+
     width: 100%;
     max-width: 420px;
     margin: 1rem;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
 
-.login-form:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
-}
-
-.login-tabs {
-    display: flex;
-    justify-content: space-between;
-    margin-bottom: 2rem;
-    border-bottom: 2px solid #ddd;
-    padding-bottom: 1rem;
-}
-
-.login-tabs h2 {
-    margin: 0;
-    font-size: 1.8rem;
-    color: #2c3e50;
-    font-weight: 600;
-}
-
-.tab-button {
-    padding: 0.5rem 1rem;
-    border: none;
-    background: none;
-    font-size: 1rem;
-    font-weight: 600;
-    cursor: pointer;
-    background-color: #e3e3e3;
-    transition: color 0.3s ease, border-bottom 0.3s ease;
-}
-
-.tab-button.active {
-    color: #2c3e50;
-    border-bottom: 3px solid #3498db;
-}
-
-.form-group {
-    margin-bottom: 1.5rem;
-}
-
-.form-group label {
-    display: block;
-    margin-bottom: 0.5rem;
-    font-weight: 500;
-    color: #34495e;
-}
-
-.form-control {
-    width: 100%;
-    padding: 0.9rem 1.2rem;
-    border: 1px solid #dfe6e9;
-    border-radius: 8px;
-    font-size: 1rem;
-    background-color: #f9f9f9;
     transition: all 0.3s ease;
 }
 
-.form-control:focus {
-    border-color: #3498db;
-    box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.2);
+/* Hover effect */
+.login-form:hover {
+    transform: translateY(-6px) scale(1.01);
+    box-shadow: 
+        0 30px 80px rgba(0,0,0,0.6),
+        inset 0 0 25px rgba(255,255,255,0.08);
+}
+
+/* 🔥 HEADING */
+.login-form h2 {
+    color: #ffffff;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+}
+
+/* 🔥 LABEL */
+.form-group label {
+    color: #cbd5f5;
+    font-weight: 500;
+}
+
+/* 🔥 INPUT FIELD */
+.form-control,
+input {
+    width: 100%;
+    padding: 0.9rem 1.2rem;
+
+    border-radius: 10px;
+    border: 1px solid rgba(255,255,255,0.15);
+
+    background: rgba(255,255,255,0.05);
+    color: #fff;
+
+    transition: all 0.3s ease;
+}
+
+/* Input focus */
+.form-control:focus,
+input:focus {
+    border-color: #6366f1;
+    box-shadow: 0 0 0 3px rgba(99,102,241,0.3);
     outline: none;
-    background-color: #ffffff;
+    background: rgba(255,255,255,0.08);
 }
 
-.forgot-password {
-    display: block;
-    text-align: right;
-    margin: -0.8rem 0 1.5rem 0;
-    font-size: 0.9rem;
-    color: #3498db;
-    text-decoration: none;
-    transition: color 0.3s ease;
-}
-
-.forgot-password:hover {
-    color: #2980b9;
-}
-
+/* 🔥 BUTTON */
 .btn-primary {
     width: 100%;
     padding: 1rem;
-    background-color: #4eb6fc;
+
+    background: linear-gradient(135deg, #6366f1, #7a77a3);
     color: white;
+
     border: none;
-    border-radius: 8px;
+    border-radius: 10px;
+
     font-size: 1rem;
     font-weight: 600;
+
     cursor: pointer;
-    transition: background-color 0.3s ease, transform 0.3s ease;
+    transition: all 0.3s ease;
 }
 
+/* Button hover */
 .btn-primary:hover {
-    background-color: #2980b9;
     transform: translateY(-2px);
+    box-shadow: 0 10px 30px rgba(99,102,241,0.4);
 }
 
-.btn-primary:active {
-    transform: translateY(0);
-}
-
+/* 🔥 FOOTER */
 .form-footer {
     text-align: center;
     margin-top: 1.5rem;
-    color: #7f8c8d;
-    font-size: 0.95rem;
+    color: #94a3b8;
 }
 
+/* 🔥 LINK */
 .link {
-    color: #3498db;
+    color: #6366f1;
     font-weight: 600;
-    text-decoration: none;
-    margin-left: 0.3rem;
-    transition: color 0.3s ease;
 }
 
 .link:hover {
-    color: #2980b9;
+    color: #818cf8;
+}
+
+/* 🔥 SVG BACKGROUND */
+.login-bg-svg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+
+    opacity: 0.4; /* 👈 thoda visible banaya */
+    z-index: 0;
+}
+
+.login-form {
+    position: relative;
+    z-index: 10;
+}
+
+/* 🔥 FLOAT ANIMATION (IMPROVED) */
+.floating-icon {
+    animation: eduFloat 6s ease-in-out infinite;
+}
+
+@keyframes eduFloat {
+    0%   { transform: translateY(0px) rotate(0deg); opacity: 0.4; }
+    50%  { transform: translateY(-20px) rotate(10deg); opacity: 0.9; }
+    100% { transform: translateY(0px) rotate(0deg); opacity: 0.4; }
+}
+
+/* 🔥 PULSE */
+.pulse-ring {
+    animation: eduPulse 4s ease-in-out infinite;
+}
+
+@keyframes eduPulse {
+    0%   { r: 38; opacity: 0.3; }
+    50%  { r: 52; opacity: 0.1; }
+    100% { r: 38; opacity: 0.3; }
 }

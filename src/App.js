@@ -38,22 +38,25 @@ import HeroSection from "./Components/Q&G/Q&G";
 import QuizApp from "./Components/Quiz/QuizPage";
 import ScheduleMeeting from "./Components/ScheduleMeeting/ScheduleMeeting";
 import ScrollToTop from "./Components/ScrollToTop/ScrollToTop";
+import EduLearn from "./Components/StudentDashboard/edulearnplatform.jsx";
+import Student from "./Components/StudentRelated/Student.js";
 import Subjects from "./Components/Subjects/Subject";
 import TeachersCard from "./Components/Teachers/Teacher";
-
 function AppRoutes() {
   const location = useLocation();
-  const hideFooter =
-    location.pathname === "/login" || location.pathname === "/signup";
+  const hideFooter = ["/dashboard", "/login", "/signup"].includes(
+    location.pathname,
+  );
   function App() {
+    const user = JSON.parse(localStorage.getItem("user")) || {};
     useEffect(() => {
       fetch(`${process.env.REACT_APP_API_URL}/api/health`)
         .then((res) => res.json())
         .then((data) => {
-          console.log("Backend connected ✅", data);
+          console.log("Backend connected", data);
         })
         .catch((err) => {
-          console.error("Backend connection failed ❌", err);
+          console.error("Backend connection failed", err);
         });
     }, []);
 
@@ -81,6 +84,7 @@ function AppRoutes() {
             <>
               <Home />
               <Subjects />
+              <Student />
               <HeroSection />
               <About />
               <TeachersCard />
@@ -292,6 +296,19 @@ function AppRoutes() {
               <ScrollToTop />
               <CertificateButton />
             </>
+          }
+        />
+        <Route
+          path="/dashboard"
+          element={
+            localStorage.getItem("token") ? (
+              <>
+                <ScrollToTop />
+                <EduLearn />
+              </>
+            ) : (
+              <Navigate to="/login" />
+            )
           }
         />
       </Routes>
