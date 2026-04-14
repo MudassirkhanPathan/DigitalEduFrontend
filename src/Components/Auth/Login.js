@@ -161,7 +161,10 @@ function Login() {
         </form>
 
         <p className="form-footer">
-          Don't have an account? <Link to="/signup">Sign up</Link>
+          Don't have an account?{" "}
+          <Link className="link" to="/signup">
+            Sign up
+          </Link>
         </p>
       </div>
     </div>
