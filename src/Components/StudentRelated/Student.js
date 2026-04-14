@@ -62,7 +62,7 @@ const Student = () => {
           <div className="btn-row">
             <button className="btn-primary">Explore Features</button>
 
-            <div className="btn-secondary" onClick={handleHowItWorks}>
+            <div className="btn-secondary">
               <div className="play-icon" />
               How it works
             </div>
